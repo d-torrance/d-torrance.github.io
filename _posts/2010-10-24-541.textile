@@ -1,0 +1,35 @@
+---
+layout: post
+title: college football poll - week 8
+---
+Mizzou takes over #1 after beating the Sooners.  Former friedcheese.org poll darling LSU steps back a few after losing to the Auburn Tigers, who move up to #3.  And TCU continues to hold strong at #2.<p/>
+Meanwhile, I'm stymied at the absence of Oregon at the top.  They actually went down a spot after shellacking UCLA.  The same UCLA team that upset current #12 Texas.  Very strange.
+<p/>
+1 - Missouri (7-0) (27.9296875) (7) <br/>
+2 - TCU (8-0) (27.671875) (1) <br/>
+3 - Auburn (8-0) (27.33935546875) (6) <br/>
+4 - Michigan St. (8-0) (26.3203125) (5) <br/>
+5 - Oklahoma (6-1) (25.5390625) (2) <br/>
+6 - Nebraska (6-1) (24.75) (10) <br/>
+7 - LSU (7-1) (24.24560546875) (3) <br/>
+8 - Wisconsin (7-1) (23.8046875) (18) <br/>
+9 - Boise St. (6-0) (22.671875) (4) <br/>
+10 - Arizona (6-1) (22.58203125) (12) <br/>
+11 - Ohio St. (7-1) (21.9085693359375) (NR) <br/>
+12 - Texas (4-3) (21.6953125) (11) <br/>
+13 - Alabama (7-1) (21.5732421875) (8) <br/>
+14 - Baylor (6-2) (21.537109375) (21) <br/>
+15 - Utah (7-0) (21.11328125) (NR) <br/>
+16 - Stanford (6-1) (21.0703125) (9) <br/>
+17 - Oklahoma St. (6-1) (20.767578125) (14) <br/>
+18 - Oregon (7-0) (19.77734375) (17) <br/>
+19 - South Carolina (5-2) (19.7763671875) (13) <br/>
+20 - Iowa (5-2) (19.375) (22) <br/>
+21 - Iowa St. (4-4) (19.30078125) (NR) <br/>
+22 - Texas Tech (4-3) (19.142578125) (NR) <br/>
+23 - Kansas St. (5-2) (19.05078125) (15) <br/>
+24 - Florida St. (6-1) (18.74609375) (NR) <br/>
+25 - Washington (3-4) (18.7041015625) (20) <br/>
+dropped out:  Hawaii, Air Force, Southern California, East Carolina, North Carolina
+<p/>
+<a href="http://img99.imageshack.us/img99/7054/footballyl.jpg">Directed graph</a>.

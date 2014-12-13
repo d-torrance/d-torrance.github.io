@@ -1,0 +1,30 @@
+---
+layout: post
+title: college football poll - week 10
+---
+1 - LSU (9-0) (37) (1) <br/>
+2 - Oklahoma St. (9-0) (32.6484375) (3) <br/>
+3 - Alabama (8-1) (32.015625) (2) <br/>
+4 - Boise St. (8-0) (29.828125) (4) <br/>
+5 - Oklahoma (8-1) (28.2431640625) (5) <br/>
+6 - Houston (9-0) (28.12109375) (6) <br/>
+7 - Stanford (9-0) (26.708984375) (7) <br/>
+8 - Arkansas (8-1) (26.5703125) (9) <br/>
+9 - Kansas St. (7-2) (24.82080078125) (8) <br/>
+10 - Penn St. (8-1) (24.77734375) (10) <br/>
+11 - Texas (6-2) (23.68603515625) (16) <br/>
+12 - Virginia Tech (8-1) (22.0458984375) (11) <br/>
+13 - Clemson (8-1) (20.59765625) (12) <br/>
+14 - Oregon (8-1) (20.05615234375) (17) <br/>
+15 - Southern California (7-2) (19.380859375) (14) <br/>
+16 - Cincinnati (7-1) (18.8226318359375) (19) <br/>
+17 - South Carolina (7-2) (18.7900390625) (18) <br/>
+18 - Georgia (7-2) (17.160400390625) (22) <br/>
+19 - Baylor (5-3) (16.9267578125) (NR) <br/>
+20 - Michigan (7-2) (14.955078125) (15) <br/>
+21 - Texas Tech (5-4) (14.912109375) (20) <br/>
+22 - Texas A&M (5-4) (14.478515625) (21) <br/>
+23 - Wisconsin (7-2) (14.1162109375) (NR) <br/>
+24 - Tulsa (6-3) (13.99658203125) (NR) <br/>
+25 - Auburn (6-3) (13.846435546875) (NR) <br/>
+dropped out:  Arizona St., Nebraska, West Virginia, Michigan St.

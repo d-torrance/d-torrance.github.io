@@ -1,0 +1,5 @@
+---
+layout: post
+title: my own mini-google
+---
+Search is up and running.  I also fixed a little bug with the archive feature that was treating a month's page like the regular front page and only showing ten entries rather than the entire month's entries.  So, the new site is essentially coded now, as the only features I have yet to add are about and links, which both require zero PHP/MySQL interaction.  Makes me sad.  Although I do have a couple ideas for possible future features.  Future features, future features.  Say that ten times fast.

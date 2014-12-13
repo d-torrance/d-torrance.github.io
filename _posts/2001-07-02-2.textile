@@ -1,0 +1,11 @@
+---
+layout: post
+title: 
+---
+Here's a link to Matt's site:  <a href="http://www.totalentropy.org">totalentropy.org</a>
+<br>
+I think I'm going back to my old method of putting a bunch of things under the same entry.  It makes me look more verbose, without any actual increase in content!
+<br>
+Growing up is freaky.  Hearing about old friends that have children is weirding me out.
+<p>
+MP3 of the day:  Radiohead - Creep

@@ -1,0 +1,7 @@
+---
+layout: post
+title: 
+---
+My second ever <a href="http://slashdot.org/comments.pl?sid=cablechannel&cid=700">Slashdot</a> comment.
+<p>
+<s>MP3</s> Album of the day:  The Beatles - Magical Mystery Tour

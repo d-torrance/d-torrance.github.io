@@ -1,0 +1,6 @@
+---
+layout: post
+title: Welcome!
+---
+Welcome to the new friedcheese.org!  The <a href="http://oldblog.friedcheese.org">old blog</a> has been archived away to make way for my latest internet project:  a mathematics-themed blog.  Partially inspired by my old roommate Eric's <a href="http://beerspot.blogspot.com">beer-themed blog</a> and my own desire to do at least something math-ish during this limbo period in between my undergraduate and graduate educations, I will be chronicling my own mathematical exploits and any math news or tidbits I may run into out there on the web.<p/>
+As you can see (well, unless you're reading this entry at some point in the future), there is much to be done yet.  The basic MySQL structure is in place.  I can post to my heart's content, and there's even an <a href="feed.php">RSS feed</a>.  But there's still much to do as far as the whole "look" thing goes.  Stay tuned.

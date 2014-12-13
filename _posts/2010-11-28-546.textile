@@ -1,0 +1,30 @@
+---
+layout: post
+title: college football poll - week 13
+---
+1 - Oklahoma (10-2) (41.5) (1) <br/>
+2 - Missouri (10-2) (40.359375) (2) <br/>
+3 - Nebraska (10-2) (39.0625) (6) <br/>
+4 - Auburn (12-0) (38.0390625) (8) <br/>
+5 - Arkansas (10-2) (37.8515625) (11) <br/>
+6 - TCU (12-0) (37.6953125) (3) <br/>
+7 - Oklahoma St. (10-2) (37.6484375) (4) <br/>
+8 - Ohio St. (11-1) (36.92578125) (9) <br/>
+9 - LSU (10-2) (36.73046875) (5) <br/>
+10 - Michigan St. (11-1) (36.3828125) (10) <br/>
+11 - Boise St. (10-1) (36.34765625) (7) <br/>
+11 - Notre Dame (7-5) (36.34765625) (18) <br/>
+13 - Oregon (11-0) (35.65625) (16) <br/>
+14 - Stanford (11-1) (35.4140625) (13) <br/>
+15 - Wisconsin (11-1) (35.3359375) (15) <br/>
+16 - Texas A&M (9-3) (35.28125) (14) <br/>
+17 - Alabama (9-3) (35.0234375) (12) <br/>
+18 - South Carolina (9-3) (34.65625) (19) <br/>
+19 - Navy (8-3) (33.9296875) (17) <br/>
+20 - Texas Tech (7-5) (32.875) (20) <br/>
+21 - Utah (10-2) (32.62890625) (21) <br/>
+22 - Florida St. (9-3) (32.3671875) (NR) <br/>
+23 - Tulsa (9-3) (32.05078125) (NR) <br/>
+24 - Southern California (7-5) (30.8203125) (22) <br/>
+25 - Michigan (7-5) (30.7890625) (NR) <br/>
+dropped out:  Texas, Arizona, Iowa

@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+So I made this pimp new logo using <a href="http://www.gimp.org">The Gimp</a> the other day, but it's on my Linux partition, and since I'm Mr. Winmodem and can't do the Internet thing in Linux while I'm away from the sweet, luscious experience that is the Northwestern resnet, I'm not in Linux ahora.  So you've gotta wait for my lazy butt to remember to <tt>cp logo.gif /dos</tt> at some point before you can see it.

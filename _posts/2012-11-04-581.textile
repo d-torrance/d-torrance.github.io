@@ -1,0 +1,33 @@
+---
+layout: post
+title: college football poll - week 10
+---
+Notre Dame stays at the top after squeaking by Pitt in triple overtime, and 'Bama and the Buckeyes swap places after the Tide survive the national title rematch game and the Buckeyes destroy Illinois.<p/>
+1 - Notre Dame (9-0) (38.2265625) (1) <br/>
+2 - Alabama (9-0) (35.29296875) (3) <br/>
+3 - Ohio St. (10-0) (31.9765625) (2) <br/>
+4 - Florida (8-1) (29.79296875) (6) <br/>
+5 - Oregon (9-0) (29.6171875) (5) <br/>
+6 - LSU (7-2) (27.8671875) (4) <br/>
+7 - Kansas St. (9-0) (27.193359375) (7) <br/>
+8 - Georgia (8-1) (26.037109375) (9) <br/>
+9 - Louisville (9-0) (24.2578125) (11) <br/>
+10 - Stanford (7-2) (23.5181579589844) (8) <br/>
+11 - South Carolina (7-2) (23.505859375) (12) <br/>
+12 - Oregon St. (7-1) (23.2134704589844) (10) <br/>
+13 - Texas A&M (7-2) (20.55615234375) (25) <br/>
+14 - Louisiana Tech (8-1) (20.39453125) (19) <br/>
+15 - Nebraska (7-2) (19.6077880859375) (18) <br/>
+16 - Oklahoma (6-2) (18.943359375) (24) <br/>
+17 - Clemson (8-1) (17.8901977539062) (17) <br/>
+18 - UCLA (7-2) (17.535888671875) (NR) <br/>
+19 - Texas (7-2) (17.2992172241211) (22) <br/>
+20 - Texas Tech (6-3) (16.9625968933105) (14) <br/>
+21 - Mississippi St. (7-2) (16.6376953125) (15) <br/>
+22 - Arizona (5-4) (16.5491943359375) (13) <br/>
+23 - Iowa St. (5-4) (15.8218688964844) (23) <br/>
+24 - Washington (5-4) (15.5753784179688) (21) <br/>
+25 - Rutgers (7-1) (15.0635986328125) (NR) <br/>
+dropped out:  West Virginia, Southern California
+<p/>
+No more directed graphs.  Imgur's compressing them to completely illegibility at this point.

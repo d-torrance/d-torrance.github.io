@@ -1,0 +1,11 @@
+---
+layout: post
+title: 
+---
+Lookee!<br>
+<a href="http://www.robohouse.com/myrobot"><img src="http://www.robohouse.com/myrobot/irongiant.gif" alt="Click here to find out what robot you really are"></a>
+<br>
+Who the hell's the Iron Giant?
+<br>
+MP3 of the day:  Mojave 3 - Candle Song 3
+

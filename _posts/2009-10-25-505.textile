@@ -1,0 +1,34 @@
+---
+layout: post
+title: college football poll - week 8
+---
+Not a ton of changes.  Amazingly, the Washington effect is still going strong.
+<p/>
+1 - Alabama (8-0) (28.515625) (1) <br/>
+2 - Iowa (8-0) (28.0234375) (2) <br/>
+3 - Oregon (6-1) (27.046875) (4) <br/>
+4 - LSU (6-1) (26.578125) (6) <br/>
+5 - Southern California (6-1) (26.375) (7) <br/>
+6 - TCU (7-0) (25.32421875) (9) <br/>
+7 - Pittsburgh (7-1) (24.71875) (13) <br/>
+8 - Florida (7-0) (24.46875) (3) <br/>
+9 - Virginia Tech (5-2) (24.46484375) (5) <br/>
+10 - Boise St. (7-0) (23.9375) (10) <br/>
+11 - Notre Dame (5-2) (23.8984375) (17) <br/>
+12 - Texas (7-0) (23.80859375) (11) <br/>
+13 - Georgia Tech (7-1) (23.60546875) (8) <br/>
+14 - Ohio St. (6-2) (22.87109375) (16) <br/>
+15 - Oklahoma St. (6-1) (22.1875) (21) <br/>
+16 - Cincinnati (7-0) (22.0234375) (24) <br/>
+17 - Arizona (5-2) (21.76953125) (22) <br/>
+18 - Houston (6-1) (21.734375) (20) <br/>
+19 - Washington (3-5) (21.34375) (15) <br/>
+20 - Auburn (5-3) (21.3203125) (12) <br/>
+21 - Kansas (5-2) (20.640625) (23) <br/>
+22 - Clemson (4-3) (20.4921875) (NR) <br/>
+23 - West Virginia (6-1) (20.2421875) (NR) <br/>
+24 - Stanford (5-3) (20.2265625) (18) <br/>
+25 - California (5-2) (20.21875) (NR) <br/>
+dropped out:  Miami (FL), Boston College, Georgia
+<p/>
+<a href="http://img34.imageshack.us/img34/8142/footballnu.jpg">Directed graph</a>

@@ -1,0 +1,35 @@
+---
+layout: post
+title: my bcs bowl projections v. reality
+---
+So, in <a href="/?id=504">this post</a>, I made some BCS bowl projections based on my ranking system as of week 7.  Now that the bowl matchups are public knowledge, let's compare!
+<p/>
+National Championship Game<br/>
+My projection:  Alabama v. Texas<br/>
+Reality:  Alabama v. Texas<br/>
+Ding ding ding!  Woohoo!
+<p/>
+Rose Bowl<br/>
+My projection:  Iowa v. Oregon<br/>
+Reality:  Ohio State v. Oregon<br/>
+As a diehard Northwestern fan, I was elated when my Wildcats dethroned the undefeated Hawkeyes, even if it did mean that my projection of them getting through the Big Ten unscathed and smelling the roses at season's end wound up being false.  I did predict the last man standing in the messy Pac-10 race though.  That's something, right?
+<p/>
+Orange Bowl<br/>
+My projection:  Miami v. Pitt<br/>
+Reality:  Iowa v. Georgia Tech<br/>
+At first glance, it looks like a massive fail.  But I did project both the Hawkeyes and the Yellow Jackets making it to BCS bowls, correct?  Just not this one.
+<p/>
+Sugar Bowl<br/>
+My projection:  Florida v. TCU<br/>
+Reality:  Florida v. Cincinnati<br/>
+Nailed the Gators, and TCU is BCS-bound, so not all that bad.
+<p/>
+Fiesta Bowl<br/>
+My projection:  USC v. Georgia Tech<br/>
+Reality:  TCU v. The Donks, er, I mean Boise State<br/>
+LOL.  USC.  LOL.  At least I didn't have them going to the Rose Bowl.
+<p/>
+Okay, analysis time.  I got 7/10 teams correct, 4/10 teams in the correct game, and 1/5 matchups correct.  Let's compare with the week 7 projections from the ESPN analysts that get paid to do this, <a href="http://espn.go.com/college-football/bowls/projections/_/week/7">Mark Schlabach and Pat Forde</a>.<br/>
+Schlabach:  7/10 teams, 4/10 teams in correct game, 2/5 matchups.  Just beat me by a nose.<br/>
+Forde:  7/10 teams, 3/10 teams in correct game, 0/5 matchups.  Woohoo!  Take that, Pat Forde!  Your football analysis skills can kneel before my Perl scripts!  Muahaha!<p/>
+Ahem.  'Scuse me.

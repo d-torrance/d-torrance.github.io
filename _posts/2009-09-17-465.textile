@@ -1,0 +1,90 @@
+---
+layout: post
+title: the friedcheese.org college football poll
+---
+So I'm an aspiring mathematician who likes college football.  Coming up with some mathematical way of ranking teams naturally is an area of interest for me.  Over the past few weeks, I've come up with a few different ranking systems, and have played with using Perl and the <a href="http://web1.ncaa.org/mfb/mainpage.jsp">NCAA's great statistics site</a> to generate a Top 25 ranking system.
+<p/>
+Today, I came up with a ranking system that I'm pretty satisfied with.  It all boils down to graph theory.  
+<p/>
+In a graph, you have two things:  "vertices" and "edges".  Edges connect two vertices.  A special kind of graph is a "directed graph", where each edge has a direction.  The edges are often called "arcs" instead when this happens.
+<p/>
+Well, directed graphs and sports go together very well.  Let's let each team in Division I-A be a vertex, and for each game that's played, add an arc pointing from the winning team to the losing team.
+<p/>
+For most pairs of teams, you can find some path from one to the other.  For example, in 2008, Idaho beat New Mexico State, who beat Louisiana Tech, who beat Mississippi State, who beat Vanderbilt, who beat Mississippi, who beat the national champion Florida Gators.  
+<p/>
+Note that not every pair gives us a path like this.  For example, last year, Washington State's only victory against a Div. I-A opponent was Washington, who didn't beat anyone.  So there's no path from the Cougars to the Gators.
+<p/>
+So here's how my ranking works.  For every team, we look at the shortest path from this team to each other team in the country.  The length of this path determines how much to add to the team's "win total".  If the path has length 1, i.e., the first team beat the second team in an actual game, then add 1 to the win total.  If the first team beat a team who beat the second team, add 1/2.  If they beat a team who beat a team who beat the second team, add 1/4, etc.  (I got this idea from the <a href="http://en.wikipedia.org/wiki/Coefficient_of_relationship">coefficient of relationship</a> I learned about in undergraduate anthropology.)
+<p/>
+So, in our example from above, Idaho gets 1/32 added to their win total for their "win" over Florida.
+<p/>
+Now for the polls themselves!  The win total is in parentheses.
+<p/>
+<b>2008 Final Poll</b>
+<p/>
+1 - Florida (49.8125)<br/>
+2 - Texas (45.96875)<br/>
+3 - Oklahoma (45.15625)<br/>
+4 - Utah (44.3125)<br/>
+5 - Pittsburgh (42.484375)<br/>
+6 - Southern California (42.1796875)<br/>
+7 - Virginia Tech (41.546875)<br/>
+8 - Georgia (41.28125)<br/>
+9 - Alabama (40.875)<br/>
+10 - Boston College (40.09375)<br/>
+11 - Wake Forest (39.53125)<br/>
+12 - Boise St. (39.296875)<br/>
+13 - Maryland (39.28125)<br/>
+14 - Nebraska (38.890625)<br/>
+15 - California (38.859375)<br/>
+16 - Cincinnati (38.6484375)<br/>
+17 - Missouri (38.4921875)<br/>
+18 - Texas Tech (38.375)<br/>
+19 - Vanderbilt (38.3125)<br/>
+20 - Oregon St. (38.1796875)<br/>
+21 - Mississippi (37.90625)<br/>
+22 - North Carolina (37.484375)<br/>
+23 - Florida St. (37.296875)<br/>
+24 - Iowa (37.15625)<br/>
+25 - Penn St. (36.9296875)<br/>
+<p/>
+Now for this year's poll.  Note that, at this point, there's more than 25 teams, as eleven of them tied for #24.  Ties should decrease in the coming weeks.
+<p/>
+<b>2009 Week 2 Poll</b>
+<p/>
+1 - Boise St. (2.875)<br/>
+2 - LSU (2.75)<br/>
+2 - Southern California (2.75)<br/>
+4 - Missouri (2.5)<br/>
+4 - Alabama (2.5)<br/>
+4 - UCLA (2.5)<br/>
+4 - Michigan (2.5)<br/>
+8 - BYU (2)<br/>
+8 - Minnesota (2)<br/>
+8 - Utah (2)<br/>
+8 - Penn St. (2)<br/>
+8 - Nebraska (2)<br/>
+8 - Texas (2)<br/>
+8 - Tulsa (2)<br/>
+8 - Wisconsin (2)<br/>
+8 - Auburn (2)<br/>
+17 - North Carolina (1.875)<br/>
+17 - Houston (1.875)<br/>
+19 - Oregon (1.75)<br/>
+19 - Connecticut (1.75)<br/>
+19 - Georgia Tech (1.75)<br/>
+19 - Oklahoma St. (1.75)<br/>
+19 - Baylor (1.75)<br/>
+24 - Clemson (1.5)<br/>
+24 - Wake Forest (1.5)<br/>
+24 - Washington (1.5)<br/>
+24 - Duke (1.5)<br/>
+24 - Ohio St. (1.5)<br/>
+24 - Arizona (1.5)<br/>
+24 - Pittsburgh (1.5)<br/>
+24 - Ohio (1.5)<br/>
+24 - SMU (1.5)<br/>
+24 - Purdue (1.5)<br/>
+24 - Georgia (1.5)
+<p/>
+<a href="http://img200.imageshack.us/img200/1592/footballd.jpg">Here's</a> a look at what this week's directed graph looks like.  Eventually they'll start to get illegible, but it's very clear right now.

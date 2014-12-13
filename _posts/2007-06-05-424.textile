@@ -1,0 +1,5 @@
+---
+layout: post
+title: comments
+---
+Comments now work.  Woot.

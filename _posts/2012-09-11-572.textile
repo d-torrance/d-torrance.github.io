@@ -1,0 +1,14 @@
+---
+layout: post
+title: XDG menus in WindowMaker
+---
+For some reason, this took me forever to figure out, so I'm posting it here.<p/>
+Let's say that you, like me, are an avid Ubuntu user who refuses to be dragged kicking and screaming into Unity-land, instead choosing to go completely old-school and run WindowMaker.  However, you want a nice application menu.  Here's what you can do:<p/>
+Grab the "xdg_menu" perl script from <a href="http://archlinux-stuff.googlecode.com/svn/trunk/xdg-menu/xdg_menu">here</a>.<p/>
+Run the following code (in the directory you downloaded the file):<p/>
+<pre>
+chmod +x xdg_menu
+sudo cp xdg_menu /usr/local/bin
+sudo apt-get install libxml-parser-perl
+</pre><p/>
+Next, open up WindowMaker Preferences, scroll over to the menu-editing screen, and drag a "Generated Submenu" bar over to your menu and rename it whatever you want by double clicking on it.  In the "Command" field, enter "xdg_menu".  Save and you're all set. 

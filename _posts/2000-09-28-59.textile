@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+<b>Update:</b>  The DNS servers are all a-okay, and <a href="http://www.friedcheese.org">friedcheese.org</a> is up and running!  Right now it's just the Apache default page, but hey, it's something!

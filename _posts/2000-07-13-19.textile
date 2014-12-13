@@ -1,0 +1,9 @@
+---
+layout: post
+title: 
+---
+<ul>
+<li><a href="http://www.vcdguide.com/VCDGuide%202/">Exhibit A</a>
+<li><a href="http://www.ticalc.org">Exhibit B</a>
+</ul>
+Interesting, no?

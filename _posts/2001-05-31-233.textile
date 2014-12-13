@@ -1,0 +1,11 @@
+---
+layout: post
+title: 
+---
+This whole <a href="http://www.space.com/businesstechnology/technology/bigelow_station_010531.html">space tourism</a> is really taking off.  I suppose it is 2001, after all.  I hope that
+<ol class="lowercase">
+<li>It gets butt cheap before I die
+<li>I somehow get butt rich from clarinet and/or math before I die
+</ol>
+
+

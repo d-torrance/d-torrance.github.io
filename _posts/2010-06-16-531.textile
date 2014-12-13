@@ -1,0 +1,19 @@
+---
+layout: post
+title: big ten divisions - the friedcheese way
+---
+So, the Cornhuskers are in the Big Ten.  Time to division up so we can have us a championship game.  Personally, I'd love to see the geographic east-west split along the Indiana-Illinois border.  Nice and simple, makes sense, preserves pretty much all the big rivalries.  I like the fact that I can look at a map and figure out the (pre-last week) Big 12 and SEC divisions.  The ACC, not so much.  
+<p/>
+But Jim Delaney says that the #1 priority for these divisions is competitive balance.  So what would that be?  Let's use the friedcheese.org college football poll to find out!
+<p/>
+Here's how it works:  Add up each team's ranking from the last two seasons (the only ones for which data is available).  Then, for each possible division split (of which there are (12 choose 6)/2 = 462), calculate the sum of the rankings of each division and compare.  The division split with the smallest difference wins!  Perl time...
+<p/>
+And the winner is (611 total ranking on each side, i.e., 0 difference!):
+<p/>
+<i>East</i><br/>
+Michigan, Michigan State, Northwestern, Ohio State, Penn State, Purdue
+<p/>
+<i>West</i><br/>
+Illinois, Indiana, Iowa, Minnesota, Nebraska, Wisconsin
+<p/>
+Amazingly, this is exactly the geographic split with Indiana and Northwestern interchanged.  The geographic split would give a total ranking of 720 in the east and 502 in the west.  It's like golf, and yes, Northwestern has been that much better than the Hoosiers these past two seasons.

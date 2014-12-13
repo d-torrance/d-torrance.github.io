@@ -1,0 +1,5 @@
+---
+layout: post
+title: NULL
+---
+I'm pretty much done coding the basics of the new site.  As far as PHP/MySQL goes that is...  HTML/CSS is still a ways off as you can see.  :)

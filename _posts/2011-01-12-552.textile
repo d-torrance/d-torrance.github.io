@@ -1,0 +1,32 @@
+---
+layout: post
+title: college football poll - final poll
+---
+The bowls are over.  Here we go!
+<p/>
+1 - Auburn (14-0) (46.125) (1) <br/>
+2 - TCU (13-0) (43.84375) (2) <br/>
+3 - Stanford (12-1) (39.84375) (5) <br/>
+4 - Ohio St. (12-1) (38.4970703125) (6) <br/>
+5 - LSU (11-2) (37.99951171875) (7) <br/>
+6 - Oregon (12-1) (37.71875) (3) <br/>
+7 - Boise St. (12-1) (36.0224609375) (8) <br/>
+8 - Oklahoma (12-2) (35.705078125) (4) <br/>
+9 - Oklahoma St. (11-2) (31.3681640625) (13) <br/>
+10 - Virginia Tech (11-3) (30.44873046875) (12) <br/>
+11 - Arkansas (10-3) (30.3896484375) (9) <br/>
+12 - Wisconsin (11-2) (29.884765625) (11) <br/>
+13 - Alabama (10-3) (27.134765625) (14) <br/>
+14 - Mississippi St. (9-4) (25.7392578125) (20) <br/>
+15 - Nevada (13-1) (25.169921875) (19) <br/>
+16 - Michigan St. (11-2) (24.45703125) (15) <br/>
+17 - Texas A&M (9-4) (24.369140625) (17) <br/>
+18 - Missouri (10-3) (24.26953125) (10) <br/>
+19 - Nebraska (10-4) (20.466796875) (16) <br/>
+20 - Utah (10-3) (20.30078125) (21) <br/>
+21 - Florida St. (10-4) (19.05859375) (NR) <br/>
+22 - Texas Tech (8-5) (17.265625) (24) <br/>
+23 - South Carolina (9-5) (17.03515625) (18) <br/>
+24 - Air Force (9-4) (16.39453125) (NR) <br/>
+25 - Notre Dame (8-5) (16.2265625) (NR) <br/>
+dropped out:  Kansas St., Baylor, Michigan

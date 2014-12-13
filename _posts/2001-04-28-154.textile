@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+TeX is pimp.  Yay nerdy math things.

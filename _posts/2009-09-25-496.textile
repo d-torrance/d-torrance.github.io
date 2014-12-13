@@ -1,0 +1,7 @@
+---
+layout: post
+title: small updates
+---
+I redid the archives a bit.  Rather than being accessed from a separate page, they're always accessible from the sidebar.  Might as well use all that real estate on the right hand side, right?
+<p/>
+I also noticed that my attempt at spam-blocking had been unsuccessful the other day.  As a temporary fix, I had all comments from the offending entry (thanks, <a href="/?id=457">entry #457!</a>) deleted every time the page was loaded.  Now I think (hope, at least...) I've found a permanent fix.

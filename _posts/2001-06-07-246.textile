@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+For the time being, I won't be able to host friedcheese.org on my computer, since I'll be returning home to 56k land.  So I'll go back to Pubweb for a little while at least.  You'll still be able to use the friedcheese url though, and it'll just redirect you to the crappy, non-PHP/MySQL version.

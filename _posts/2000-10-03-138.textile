@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+My PHP/mySQL revamp of the site is coming along nicely.  What will become <a href="test.php">index.php</a> is pretty much done.  It doesn't look very nifty.  If you want to actually see something worthwhile, <a href="text.txt">here's</a> the source code.  I just need to add support for browsing the archives.  Plus I need to program the script I'll use to enter updates into the database.  That'll be the biggest job.

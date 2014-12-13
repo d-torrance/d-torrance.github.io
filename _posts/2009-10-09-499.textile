@@ -1,0 +1,6 @@
+---
+layout: post
+title: mumme poll
+---
+I registered for the <a href="http://mummepoll.3sib.com/index.php">Mumme Poll</a>, which appears to be somewhat of a poor man's <a href="http://www.cbssports.com/collegefootball/polls/cbsblog">BlogPoll</a> in that anyone can contribute without having to be a major college football blogger.  Considering that I post once a week, and that my posts are largely written by a Perl script with little work on my own part, I certainly do not fall in said category.<p/>
+Anywho, now the friedcheese.org poll, in addition to standing on its own, will also be a tiny cog in a larger poll.

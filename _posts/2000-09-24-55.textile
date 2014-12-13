@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+Now for some more l33t javascriptx0ring skillz.  Since the <i>Chicago Tribune</i> doesn't carry all my favorites comics, which I grew up on while reading the <i>Columbus Dispatch</i>, I'm lacking in my comic reading.  And beyond that, I don't even read the <i>Trib</i>.  So, I decided I'd write a script that would display all my favorites on one easy-to-read webpage, retrieved from each of the comics' own webpages.  Well, some smartasses at a couple of the syndicates that publish these wonderful comics decided they'd be all fancy and use either an apparently random string of numbers in each filename or use a CGI program to detect whether the referring page is registered to show the comic or not.  So unfortunately, I'm missing a whole bunch of my favorites, but if I had to pick my very very special favorites out of those, I think I lucked out as far as which ones I was able to access with no problems.  So <a href="comics.html">here</a> it is.

@@ -1,0 +1,32 @@
+---
+layout: post
+title: college football poll - week 7
+---
+1 - Alabama (7-0) (23.5576171875) (1) <br/>
+2 - LSU (7-0) (23.03515625) (2) <br/>
+3 - Oklahoma St. (6-0) (22.440185546875) (6) <br/>
+4 - Oklahoma (6-0) (21.2177734375) (4) <br/>
+5 - Clemson (7-0) (21.060546875) (5) <br/>
+6 - Boise St. (6-0) (19.7060546875) (7) <br/>
+7 - Kansas St. (6-0) (19.27734375) (14) <br/>
+8 - Virginia Tech (6-1) (17.365234375) (19) <br/>
+9 - Arkansas (5-1) (16.4252319335938) (11) <br/>
+10 - Wisconsin (6-0) (16.1962890625) (12) <br/>
+11 - Nebraska (5-1) (15.787109375) (18) <br/>
+12 - Michigan (6-1) (14.16064453125) (3) <br/>
+13 - West Virginia (5-1) (14.134765625) (20) <br/>
+14 - Stanford (6-0) (14.0819702148438) (13) <br/>
+15 - Penn St. (6-1) (13.9931640625) (NR) <br/>
+16 - Texas (4-2) (13.9276123046875) (10) <br/>
+17 - Oregon (5-1) (13.43359375) (NR) <br/>
+18 - Southern California (5-1) (13.1416015625) (22) <br/>
+19 - Texas A&M (4-2) (12.9451904296875) (NR) <br/>
+20 - South Carolina (6-1) (12.4266967773438) (23) <br/>
+21 - Auburn (5-2) (12.3383483886719) (24) <br/>
+22 - Houston (6-0) (12.296875) (17) <br/>
+23 - Illinois (6-1) (12.15234375) (8) <br/>
+24 - Michigan St. (5-1) (11.83984375) (NR) <br/>
+25 - Rutgers (5-1) (11.56396484375) (16) <br/>
+dropped out:  Arizona St., Baylor, Georgia Tech, North Carolina
+<p/>
+<a href="http://i.imgur.com/UCDh1.jpg">Directed graph</a>.

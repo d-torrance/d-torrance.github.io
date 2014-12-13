@@ -1,0 +1,11 @@
+---
+layout: post
+title: 
+---
+<div class="quote">
+<i>O, wonder!<br>
+How many goodly creatures are there here!<br>
+How beauteous mankind is! O brave new world,<br>
+That has such people in't!
+</i>
+</div>

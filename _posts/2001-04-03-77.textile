@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+I'm thinking about doing a minor redesign, just so this pages works in Netscape and Opera.

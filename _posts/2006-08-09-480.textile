@@ -1,0 +1,6 @@
+---
+layout: post
+title: 
+---
+<a href="images/12.jpg"><img width=466 src="images/12.jpg"/></a><br/>
+more badlands - now with more trees! 

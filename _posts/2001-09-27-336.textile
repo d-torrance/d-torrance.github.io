@@ -1,0 +1,12 @@
+---
+layout: post
+title: 
+---
+Fun with my new webcam:
+<ul>
+<li><a href="room1.jpg">My computer, with Beanie Baby Flash on top!</a>
+<li><a href="room2.jpg">My stereo, with Pinky, the Brain, Impulse, and Professor Zoom toys, and Taiwanese Sprite bottle.</a>
+<li><a href="room3.jpg">My homework table, with crap everywhere.</a>
+<li><a href="room4.jpg">My posters--Fight Club, Christina Aguilera, and the Flash.</a>
+<li><a href="room5.jpg">My bookcase and CD rack thingie.</a>
+</ul>

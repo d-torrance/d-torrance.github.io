@@ -1,0 +1,39 @@
+---
+layout: post
+title: college football poll - final
+---
+My poll doesn't care who won the NCG.  LSU had the better season.
+<p/>
+1 - LSU (13-1) (47.875) (1) <br/>
+2 - Alabama (12-1) (43.625) (2) <br/>
+3 - Arkansas (11-2) (39.09375) (3) <br/>
+4 - Boise St. (12-1) (35.5703125) (8) <br/>
+5 - Oklahoma St. (12-1) (33.96875) (4) <br/>
+6 - Oklahoma (10-3) (33.09375) (6) <br/>
+7 - South Carolina (11-2) (31.046875) (10) <br/>
+8 - Baylor (10-3) (30.40625) (9) <br/>
+9 - Kansas St. (10-3) (29.3125) (5) <br/>
+10 - Houston (13-1) (28.65625) (15) <br/>
+11 - Oregon (12-2) (27.5078125) (17) <br/>
+12 - Michigan (11-2) (26.546875) (13) <br/>
+13 - Stanford (11-2) (26.4375) (7) <br/>
+14 - Southern California (10-2) (23.734375) (14) <br/>
+15 - Texas (8-5) (21.875) (16) <br/>
+16 - Wisconsin (11-3) (20.15625) (18) <br/>
+17 - Michigan St. (11-3) (19.734375) (23) <br/>
+18 - Texas A&M (7-6) (19.15625) (24) <br/>
+19 - Georgia (10-4) (18.99609375) (12) <br/>
+20 - Virginia Tech (11-3) (18.90625) (11) <br/>
+21 - TCU (11-2) (18.109375) (22) <br/>
+22 - West Virginia (10-3) (16.140625) (NR) <br/>
+23 - Auburn (8-5) (16.125) (NR) <br/>
+24 - Missouri (8-5) (15.953125) (NR) <br/>
+25 - Nebraska (9-4) (15.140625) (21) <br/>
+dropped out:  Penn St., Tulsa, Iowa St.
+<p/>
+The list of friedcheese.org national champs stands as thus:<br/>
+2007 - Kansas<br/>
+2008 - Utah<br/>
+2009 - Alabama<br/>
+2010 - Auburn<br/>
+2011 - LSU

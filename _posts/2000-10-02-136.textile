@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+friedcheese.org now uses <a href="http://www.php.net">PHP</a>!!  Whoot. <img src="php-small-trans-dark.gif">

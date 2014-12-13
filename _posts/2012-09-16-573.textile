@@ -1,0 +1,35 @@
+---
+layout: post
+title: college football poll - week 3
+---
+After week 3, we know a little bit more about what's going in college football.  Stanford claims the top spot after beating USC (who drops out completely).  My Cats are still in it at #16!<p/>
+I love how after only 3 weeks of games, the graph is now connected.  Also, very interestingly, Oregon State comes in at #25 despite having only one win...  The Beavers beat Wisconsin, who beat Utah St, who beat Utah, who beat BYU, who beat Wazzu, who beat UNLV.  If this chain were repeated to infinity, then it would be like Oregon State beat TWO teams!<p/>
+1 - Stanford (3-0) (5.5) (3) <br/>
+2 - Florida (3-0) (5.3125) (6) <br/>
+3 - Alabama (3-0) (4.75) (6) <br/>
+3 - UCLA (3-0) (4.75) (1) <br/>
+3 - Notre Dame (3-0) (4.75) (12) <br/>
+6 - Arizona (3-0) (4.125) (6) <br/>
+7 - Clemson (3-0) (4) (6) <br/>
+7 - Ohio St. (3-0) (4) (6) <br/>
+9 - Georgia (3-0) (3.875) (12) <br/>
+10 - LSU (3-0) (3.75) (3) <br/>
+10 - Texas (3-0) (3.75) (12) <br/>
+12 - Ohio (3-0) (3.5) (12) <br/>
+12 - South Carolina (3-0) (3.5) (12) <br/>
+14 - Mississippi St. (3-0) (3.25) (NR) <br/>
+14 - Iowa St. (3-0) (3.25) (1) <br/>
+16 - Oregon (3-0) (3) (6) <br/>
+16 - Northwestern (3-0) (3) (12) <br/>
+18 - Rutgers (3-0) (2.75) (NR) <br/>
+19 - Kansas St. (3-0) (2.5) (20) <br/>
+19 - Louisiana Tech (2-0) (2.5) (NR) <br/>
+19 - Louisville (3-0) (2.5) (20) <br/>
+19 - Texas Tech (3-0) (2.5) (20) <br/>
+23 - Minnesota (3-0) (2) (NR) <br/>
+23 - Middle Tenn. (2-1) (2) (NR) <br/>
+25 - Oregon St. (1-0) (1.96875) (NR) <br/>
+25 - Cincinnati (2-0) (1.96875) (NR) <br/>
+dropped out:  Arizona St., La.-Lafayette, Southern California, South Fla., Tennessee, Michigan St.
+<p/>
+<a href="http://i.imgur.com/4gQsD.jpg">Directed graph</a>.

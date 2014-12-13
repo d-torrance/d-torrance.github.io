@@ -1,0 +1,5 @@
+---
+layout: post
+title: NULL
+---
+Whoot friedcheese.org lives again!  (even if the only way to access it is me doing http://localhost :P)

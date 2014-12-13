@@ -1,0 +1,5 @@
+---
+layout: post
+title: mission accomplished
+---
+About and links are done, as difficult as they were.  I've also validated the entire site as xhtml 1.0 strict, although I'm sure if one looked hard enough, one could find a couple of entries in the archives that break it, thanks to various &#60;p&#62; tags without slashes.  CSS validation isn't quite there yet.

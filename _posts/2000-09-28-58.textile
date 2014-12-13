@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+I registered friedcheese.org for <a href="http://staples.register.com">one dollar</a>!  One dollar!  So yeah, sometime the DNS servers should get updated and it'll point to my home box for the time being.  Whoot!

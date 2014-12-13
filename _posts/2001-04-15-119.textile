@@ -1,0 +1,11 @@
+---
+layout: post
+title: 
+---
+Quote of the day:  (from <i>A Fish Called Wanda</i>)
+<div class="quote">
+Otto:  <i>"You know your problem?  You don't like winners."</i><br>
+Archie:  <i>"Winners?"</i><br>
+Otto:  <i>"Yeah ... winners."</i><br>
+Archie:  <i>"Winners like ... North Vietnam?"</i>
+</div>

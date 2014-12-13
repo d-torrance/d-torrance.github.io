@@ -1,0 +1,6 @@
+---
+layout: post
+title: 
+---
+<a href="http://validator.w3.org/check?uri=www.slashdot.org">Bwahahaha</a>.<br>
+Not that I can complain.  That damn robot picture and a link or two with ampersands shot down my chances at compliance...

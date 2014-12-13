@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+I'm sick of all these problems i've been getting with MySQL, so I'm just going to switch back to plain old html.  I've moved my site to <a href="http://www.geocities.com/profzoom81/friedcheese.html">Geocities</a>.

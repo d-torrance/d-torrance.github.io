@@ -1,0 +1,5 @@
+---
+layout: post
+title: test
+---
+So remember that major overhaul I referred to in the last entry, nearly two years ago?  I think I might do it.  Here's the first attempt at an entry.  Aside from the new look, I've also added titles, with the hopes of eventually implementing an RSS feed.

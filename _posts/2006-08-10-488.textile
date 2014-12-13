@@ -1,0 +1,6 @@
+---
+layout: post
+title: 
+---
+<a href="images/20.jpg"><img width=466 src="images/20.jpg"/></a><br/>
+my camp at yellowstone. i spent 2 nights here. 

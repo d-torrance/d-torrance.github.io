@@ -1,0 +1,5 @@
+---
+layout: post
+title: three blogs combine to become one! muahahaha
+---
+Well, I suppose my last entry was a bit off, as I'd forgotten about my short-lived math blog which existed in the middle there somewhere.  My old blogs were divided between three different MySQL tables, so I've combined them into one.  More functionality to come later.  And then... content!

@@ -1,0 +1,5 @@
+---
+layout: post
+title: college basketball poll on hold
+---
+Since there's so much more data to deal with in college basketball than college football, the directed graphs are much larger, and it takes much more time to make the calculations necessary to generate my poll.  Last week, I reached the threshold where it became no longer feasible to run the script on my little laptop.  Consequently, the poll will be put on indefinite hold until I can find a more efficient algorithm and/or port the script to a faster language.

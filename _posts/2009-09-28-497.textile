@@ -1,0 +1,34 @@
+---
+layout: post
+title: college football poll - week 4
+---
+Here it is.  The Hokies move into the top spot with their win over the 'Canes.  Iowa also moves up big time after braving the Whiteout to take down Penn State.
+<p/>
+1 - Virginia Tech (9.7646484375) (8) <br/>
+2 - Alabama (9.3349609375) (2) <br/>
+3 - Boise St. (9.05859375) (3) <br/>
+4 - Iowa (8.7109375) (21) <br/>
+5 - LSU (8.6171875) (1) <br/>
+6 - Oregon (7.873046875) (10) <br/>
+7 - Washington (7.296875) (4) <br/>
+8 - Miami (FL) (7.291015625) (5) <br/>
+9 - Michigan (7.1240234375) (6) <br/>
+10 - Georgia Tech (7.01123046875) (NR) <br/>
+11 - Stanford (6.8046875) (NR) <br/>
+12 - Texas (6.71875) (15) <br/>
+13 - Florida (6.625) (21) <br/>
+14 - Southern California (6.59375) (13) <br/>
+15 - Clemson (6.1005859375) (15) <br/>
+16 - Kansas (6) (15) <br/>
+17 - Georgia (5.984375) (NR) <br/>
+18 - Auburn (5.734375) (7) <br/>
+19 - Ohio St. (5.49609375) (21) <br/>
+20 - BYU (5.24609375) (NR) <br/>
+21 - North Carolina (5.12060546875) (9) <br/>
+22 - TCU (5.05029296875) (NR) <br/>
+23 - Oklahoma St. (4.9921875) (15) <br/>
+24 - Cincinnati (4.984375) (20) <br/>
+25 - South Carolina (4.96875) (NR) <br/>
+dropped out:  Penn St., Connecticut, Pittsburgh, Minnesota, California, UCLA
+<p/>
+<a href="http://img101.imageshack.us/img101/1158/footballg.jpg">Directed graph.</a>

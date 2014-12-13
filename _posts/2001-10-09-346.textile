@@ -1,0 +1,6 @@
+---
+layout: post
+title: 
+---
+This site should be <a href="http://validator.w3.org/check?uri=http://www.friedcheese.org">HTML 4.01 compliant</a> once again.  I'd totally screwed everything up when I added the poll this summer.  But all good now.<br>
+MP3 of the day:  Neutral Milk Hotel - Song Against Sex

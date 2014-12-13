@@ -1,0 +1,5 @@
+---
+layout: post
+title: 
+---
+Quote of the day:  <i>"Of course everyone knows that vim is the best text editor in the world. Anyone who tells you differently is either wrong, lying, or criminally insane. (Or an emacs user, in which case they are wrong, lying and criminally insane)."</i> - <a href="http://slashdot.org/article.pl?sid=01/09/27/146214&mode=thread">CmdrTaco</a>
