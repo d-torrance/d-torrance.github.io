@@ -1,0 +1,36 @@
+﻿body {
+    background: #144734;
+    color: #3e3935;
+    font-size: 16pt;
+    font-family: Georgia,Times,Times New Roman,serif;
+}
+a, h1, h2, h3 {
+    color: #144734;
+}
+header {
+    text-align: center;
+    background: #b5a268;
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 2px #3e3935 solid;
+}
+main {
+    width: 50%;
+    background: #b2b2b2;
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 2px #3e3935 solid;
+}
+img {
+    float: right;
+    border: 2px #3e3935 solid;
+    width: 42%;
+    max-width: 400px;
+}
+
