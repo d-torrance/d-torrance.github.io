@@ -4,8 +4,12 @@
     font-size: 16pt;
     font-family: Georgia,Times,Times New Roman,serif;
 }
-a, h1, h2, h3 {
+a {
     color: #144734;
+}
+h1, h2, h3 {
+    color: #144734;
+    text-shadow: 1px 1px #3e3935;
 }
 header {
     text-align: center;
