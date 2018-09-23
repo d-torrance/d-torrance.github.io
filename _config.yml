@@ -8,6 +8,7 @@ url: "http://friedcheese.org" # the base hostname & protocol for your site
 twitter_username: profzoom81
 github_username:  d-torrance
 paginate: 10
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
