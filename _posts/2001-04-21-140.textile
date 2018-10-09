@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-In support of the <a href="http://www.stanford.edu/~mbartsch/6u.shtml">6-U</a> Green Ribbon Campaign, <a href="http://6u.friedcheese.org">6u.friedcheese.org</a> will now point to this page, in addition to www.friedcheese.org and plain ol' friedcheese.org.  You'll have to wait for all those crazy DNS servers to do the updatin' thing sometime in the next day or so.

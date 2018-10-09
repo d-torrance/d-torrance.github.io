@@ -1,7 +1,0 @@
----
-layout: post
-title: 
----
-Hmm, EditPad seems to be adding random returns in things I never originally put returns in.  Whatever.  Yeah, so here I am at home.  Home sweet home.  Bed here's so comfy.  Oh yeah.  Well, since I put up the link to the the webpage I made for AP Chem junior year the other day, I thought I'd let y'all warp back in time one more year to my sophomore year, when Robby Christ and I were webmasters of the <a href="http://www.geocities.com/Athens/Forum/2116/">La Clase de Espa¤ol</a> webpage!!  Hmm, that sentence was pretty redundant.  "The La".  That's "The The".  Ok.  Whatever.  But making that webpage was pimp, cause Robby and I didn't have to do any actual work in Spanish.  Yeppers.  Can't say I learned much Spanish that year, but I did learn Javascript.  Whoot.  But I don't think any of the Javascript is on the page now, cause it was all impractical.  Oh well.  Oh, and just so you know, that webpage was 100% coded in SimpleText on school-owned Macintoshes.  Yeah buddy.  The sweet thing about SimpleText is how it can say, or even sing, what you wrote back to you.  I just wish Notepad did that, that'd be mad pimp.
-<p>
-Good luck to Jen at her piano recital this afternoon!

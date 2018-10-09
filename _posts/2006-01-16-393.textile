@@ -1,5 +1,0 @@
----
-layout: post
-title: pwned by timestamps
----
-I've made a small change concerning how timestamps for articles are recorded.  Before, it just kept track of the date.  Now, it keeps track of the time as well.  This is because entries were showing up out of order.  Of course, all previous entries have defaulted to midnight, except for a couple (namely the last four), which I hand-tweaked.

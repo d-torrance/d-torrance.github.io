@@ -1,5 +1,0 @@
----
-layout: post
-title: NULL
----
-Archives page now works, and I've tweaked the design a little bit more.

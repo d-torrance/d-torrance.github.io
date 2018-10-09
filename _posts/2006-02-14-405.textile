@@ -1,5 +1,0 @@
----
-layout: post
-title: do the monster mash
----
-<a href="http://quiz.ravenblack.net/blood.pl?biter=profzoom">This</a> is a fun little diversion.

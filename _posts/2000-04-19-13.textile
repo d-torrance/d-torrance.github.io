@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-It's so amazing!  It's my <a href="http://terraserver.microsoft.com/image.asp?S=10&T=1&X=1603&Y=22148&Z=17&W=0">house</a>!

@@ -1,9 +1,0 @@
----
-layout: post
-title: 
----
-Okay, so I got <a href="breast.html">this</a> in my Hotmail inbox today.  Two questions:
-<ol>
-<li>Why is the domain name <a href="19clydesdales.jpg">19clydesdales.com</a>?
-<li>Where's <a href="http://www.19clydesdales.com/page1.htm">page1.htm</a>?
-</ol>

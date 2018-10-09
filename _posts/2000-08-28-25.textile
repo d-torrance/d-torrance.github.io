@@ -1,6 +1,0 @@
----
-layout: post
-title: 
----
-Which of the following does not belong?<br>
-    SCUBA    LASER    MOFO    NASA

@@ -1,9 +1,0 @@
----
-layout: post
-title: 
----
-Quote of the day:
-<div class="quote">
-Bart:  <i>"Hootie and the Blowfish?"</i><br>
-Chief Wiggum:  <i>"Yeah, it's cheaper than blank tape."</i>
-</div>

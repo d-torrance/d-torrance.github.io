@@ -1,9 +1,0 @@
----
-layout: post
-title: 
----
-Quote of the day:
-<div class="quote">
-Dumb girl in my math class:  <i>"How do you know it?"</i><br>
-Nitu:  <i>"I just know it 'cause I'm quick."</i>
-</div>

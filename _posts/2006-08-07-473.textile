@@ -1,6 +1,0 @@
----
-layout: post
-title: 
----
-<a href="images/5.jpg"><img width=466 src="images/5.jpg"/></a><br/>
-another angle of my first camp. i built that fire without a match, with nothing but the glowing embers that the previous occupant had foolishly not put out. /flex 

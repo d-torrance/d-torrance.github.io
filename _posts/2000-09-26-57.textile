@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-George's Quote Corner:  <i>"Dude your website is pimp.  It's so funny."</i> - George Wang

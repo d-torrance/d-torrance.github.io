@@ -1,5 +1,0 @@
----
-layout: post
-title: friedcheese.org is back!
----
-Yes, I'm back after over a year break.  My impetus this time is to create a running blog, telling the tale of my training for the Spokane Marathon.  I still have a few more features to add, but the bare essentials are once again in place.  Actual running-related entries should commence in one week.

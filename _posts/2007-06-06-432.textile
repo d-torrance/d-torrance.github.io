@@ -1,5 +1,0 @@
----
-layout: post
-title: skin and bear it
----
-Retro skins have been implemented.  It won't make the site exactly look how it did back in the day, but it'll be pretty darn close.  The 2006 skin probably looks the most different from its original - each entry was in its own little box, which isn't possible with the way the current site is set up.  However, you can still see it in its original glory <a href="http://oldblog.friedcheese.org">here</a>.  The new skin is my favorite, though.

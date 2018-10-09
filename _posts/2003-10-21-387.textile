@@ -1,5 +1,0 @@
----
-layout: post
-title: NULL
----
-What would you look like as a <a href="http://southparkstudios.com/games/create.html">South Park character</a>?  Here's <a href="southpark.jpg">me</a>.

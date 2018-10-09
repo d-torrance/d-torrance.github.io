@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Aren't you glad I don't have <a href="http://www.malfunction.org/fulifier/nph-fulify.cgi?URL=http%3A%2F%2Fwww.friedcheese.org">this</a> much fun with html?

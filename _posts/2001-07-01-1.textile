@@ -1,8 +1,0 @@
----
-layout: post
-title: 
----
-Hello!  Welcome to the new server!  George's computer's apparently behind a firewall or has a private IP or something, so only he could access it...  So anyways, I actually am shelling out ten bucks a month to the good people at <a href="http://www.phpwebhosting.com">phpwebhosting.com</a> for this space.  Hopefully all will be pimp.  Unfortunately transferring all my old entries is being a butt.  I'm hoping to sort that out once I have telnet access.
-<p>
-MP3 of the day:  Muse - Muscle Museum
-

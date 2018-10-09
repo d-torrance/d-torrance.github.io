@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-<a href="http://hcoonce.math.mankato.msus.edu/">This</a> site is so cool!  My math professor <a href="http://hcoonce.math.mankato.msus.edu/html/id.phtml?id=32972">this quarter</a> and my math professor <a href="http://hcoonce.math.mankato.msus.edu/html/id.phtml?id=28306">last quarter</a> had the same great-great-grand teacher or something like that.

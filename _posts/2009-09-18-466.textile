@@ -1,7 +1,0 @@
----
-layout: post
-title: features
----
-So I had about 300 megs worth of spam comments.  They're gone now.  There's now a little math problem you have to do to prove your humanity if you wish to comment.
-<p/>
-I think I'm going to redesign the CSS soon.  Something purplish for my 'Cats?  And tags.  I'm still living in like 2002 with my lack of tags on blog entries.  No clouds, though.  Them things are fugly.

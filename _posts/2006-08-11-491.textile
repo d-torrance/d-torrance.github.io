@@ -1,6 +1,0 @@
----
-layout: post
-title: 
----
-<a href="images/23.jpg"><img width=466 src="images/23.jpg"/></a><br/>
-pretty sure this one is called steamboat geyser. it's the tallest geyser in the world, shooting upwards of 400 ft. however, it hasn't erupted in over a year. 

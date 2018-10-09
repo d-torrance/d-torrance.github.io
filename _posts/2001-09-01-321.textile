@@ -1,7 +1,0 @@
----
-layout: post
-title: 
----
-Hello there, September!<br>
-Quote of the day:  <i>"Well, if it isn't the Curse of the Conservatives himself--Oliver 'All Cops are Fascists' Queen!"</i> - Barry Allen in <i>Green Arrow</i> #7, written by Kevin Smith!<br>
-So I ordered a new motherboard and processor.  Everything's in ok... except for the damn power switch at the front of my case.  That's because Gateway decided to bundle all their cables into this one 14-pin doodad that's really pissing me off right now.  Anywho, I've got a nice little jerry-rigged setup at this juncture in time, with the old motherboard sitting atop my open case with a modem and a video card in it.  Fun fun!

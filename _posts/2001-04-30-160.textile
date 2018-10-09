@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-<a href="http://news.excite.com/news/ap/010429/22/spacecraft-found">Yay</a>!

@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Ok, I've decided to completely change everything.  The current look is very rudimentary.  Very.  I think it will be something along these lines, but much much pimper.

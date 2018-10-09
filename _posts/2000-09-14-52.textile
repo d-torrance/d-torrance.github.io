@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Quote of the day: <i>"The last rose of summer is gone."</i> - The Smashing Pumpkins, "Speed Kills"

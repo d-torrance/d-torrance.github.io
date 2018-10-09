@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Quote of the day:  <i>"I'm an evil dragon. Hiss hiss"</i> - <a href="http://www.rinkworks.com/bookaminute/b/tolkien.hobbit.shtml">Smaug</a>

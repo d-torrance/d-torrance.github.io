@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Well, I'm finally back at <a href="http://www.nwu.edu">school</a>.  I've actually been back since Saturday, but I decided that I'd update from Linux, and since I didn't actually get ethernet working until this morning (well, actually last night - but I was too lazy to reboot and realize the fruits of my labor), I'm updating now and not a long time ago.  Yeah.  My room's all big and stuff.  It's nice.  Bye.

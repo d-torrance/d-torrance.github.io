@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Now for some news item action - <a href="http://www.nzherald.co.nz/storydisplay.cfm?storyID=148548">Linux and the Lord of the Rings</a>, two of the greatest things on God's green earth, join forces.  Boo yeah.

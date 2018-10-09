@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Hehe, whoops.  I was messing around with my CSS and made things screwy a little earlier.  Thought I changed everything back, but apparently not.  So my site had a whole lot of nothing for the better part of a day.

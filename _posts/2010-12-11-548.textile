@@ -1,5 +1,0 @@
----
-layout: post
-title: domain move, sort of
----
-I've decided to move the blog component of this site to <a href="http://blog.friedcheese.org">blog.friedcheese.org</a> to potentially make way for a less blog-oriented main page.  Some things may have broken in the move.  I'll fix 'em if I find 'em.

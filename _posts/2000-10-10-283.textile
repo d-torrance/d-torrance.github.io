@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Ok, that was weird... my keyboard just stopped working.  (It's working now of course, after a couple reboots.

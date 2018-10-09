@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-Well, I did some PHP/MySQL hackin', and got a poll up and running.  I wonder how many people are actually gonna take the time to click the little circle and push the button...  It'll be interesting.  The first question, although sick and disturbing, pays homage to a line from <i>Wayne's World</i>.

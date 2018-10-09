@@ -1,9 +1,0 @@
----
-layout: post
-title: 
----
-Quote of the day:
-<div class="quote">
-<b>ProfZoom81 <span class="im-time">(1:30:41 AM)</span></b>: oh quick gynecologocial question<br>
-<b>Jennyjens <span class="im-time">(1:30:51 AM)</span></b>: <span class="im-jen">WHAT?</span>
-</div>

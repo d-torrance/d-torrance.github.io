@@ -1,5 +1,0 @@
----
-layout: post
-title: 
----
-I updated my <a href="about.php">about.php</a>.
