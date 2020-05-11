@@ -1,0 +1,121 @@
+---
+---
+
+:root {
+    --piedmont-green: #144734;
+    --piedmont-gold: #B5A268;
+    --piedmont-black: #3E3935;
+    --piedmont-darkgray: #696057;
+    --piedmont-gray: #B2B2B2;
+    --my-padding: 24px;
+}
+
+@font-face {
+    font-family: 'Sorts Mill Goudy';
+    src: url({{ site.url }}/fonts/SortsMillGoudy-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url({{ site.url }}/fonts/PTSans-Regular.ttf);
+}
+
+html {
+    background-color: var(--piedmont-gray);
+    color: var(--piedmont-black);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+}
+
+.content-wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
+
+header {
+    background-color: var(--piedmont-green);
+    border: 1px solid var(--piedmont-black);
+    color: var(--piedmont-gold);
+    padding: var(--my-padding);
+    margin-bottom: var(--my-padding);
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2, h3  {
+    font-size: 32px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+header h1, h2 {
+    font-weight: normal;
+}
+
+header a {
+    color: var(--piedmont-gold);
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    background-color: var(--piedmont-darkgray);
+    font-family: 'Sorts Mill Goudy', serif;
+    border: 1px solid var(--piedmont-black);
+    padding: var(--my-padding);
+    margin-bottom: var(--my-padding);
+}
+
+nav ul {
+    list-style-type: none;
+    column-count: 2;
+    padding-left: 0px;
+}
+
+nav li {
+    text-align: center;
+}
+
+nav a {
+    color: var(--piedmont-black);
+    font-size: 24px;
+}
+
+main {
+    background-color: white;
+    border: 1px solid var(--piedmont-black);
+    padding: var(--my-padding);
+    overflow: auto;
+}
+
+h3, h4 {
+    font-family: 'Sorts Mill Goudy', serif;
+    color: var(--piedmont-green);
+}
+
+a {
+    color: var(--piedmont-darkgray);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--piedmont-gold);
+}
+
+#headshot {
+    border: 1px solid var(--piedmont-black);
+    float: right;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: var(--my-padding);
+}
+
