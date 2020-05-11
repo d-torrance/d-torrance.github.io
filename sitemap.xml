@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/</loc>
+  <lastmod>2020-05-11T04:26:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/teaching</loc>
+  <lastmod>2020-05-11T04:26:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/research</loc>
+  <lastmod>2020-05-11T04:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/slides/lee20190308.pdf</loc>
+  <lastmod>2020-05-11T04:14:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/slides/clemson20180323.pdf</loc>
+  <lastmod>2020-05-11T04:14:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/slides/jmm20170106.pdf</loc>
+  <lastmod>2020-05-11T04:14:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/slides/jmm14.pdf</loc>
+  <lastmod>2020-05-11T04:15:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://webwork.piedmont.edu/~dtorrance/slides/defense.pdf</loc>
+  <lastmod>2020-05-11T04:15:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
