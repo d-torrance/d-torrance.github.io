@@ -12,12 +12,12 @@
 
 @font-face {
     font-family: 'Sorts Mill Goudy';
-    src: url({{ site.url }}/fonts/SortsMillGoudy-Regular.ttf);
+    src: url({{ site.url }}/fonts/sorts-mill-goudy-v9-latin-regular.woff2);
 }
 
 @font-face {
     font-family: 'PT Sans';
-    src: url({{ site.url }}/fonts/PTSans-Regular.ttf);
+    src: url({{ site.url }}/fonts/pt-sans-v11-latin-regular.woff2);
 }
 
 html {
