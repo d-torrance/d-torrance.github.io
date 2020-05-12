@@ -17,7 +17,7 @@ permalink: research
   http://www.ams.org/mathscinet/search/author.html?mrauthid=1094385)
 * [Mathematics Genealogy Project](
   http://www.genealogy.ams.org/id.php?id=174302)
-  ([my tree](img/genealogy.png), generated with
+  ([my tree]({{ site.url }}/genealogy), generated with
   [geneagrapher](https://github.com/davidalber/geneagrapher))
 * [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
 

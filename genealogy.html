@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: genealogy
+---
+
+{% include_relative genealogy.svg %}
+
+<script src="{{ site.url }}/js/svg-pan-zoom.min.js"></script>
+<script type="text/javascript">
+  svgPanZoom(document.getElementById("tree"));
+</script>
+
+<!-- to regenerate svg:
+ !--     ggrapher -a 174302 > genealogy.dot
+ !--     dot -Tsvg genealogy.dot -o genealogy.svg
+ !-- then edit genealogy.svg to set id="tree" -->

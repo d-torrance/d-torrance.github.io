@@ -119,3 +119,7 @@ a:hover {
     margin-bottom: var(--my-padding);
 }
 
+#tree {
+    width: 100%;
+    height: 100%;
+}
