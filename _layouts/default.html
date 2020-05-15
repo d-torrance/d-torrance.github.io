@@ -10,21 +10,25 @@
     <link rel="icon" type="image/x-icon" href="{{ site.url }}/img/favicon.ico">
   </head>
   <body>
-    <div class="content-wrapper">
-    <header>
-      <h1><a href="{{ site.url }}">Doug Torrance</a></h1>
-      <h2>Associate Professor of Mathematics<br>
-        <a href="https://www.piedmont.edu">Piedmont College</a></h2>
-    </header>
-    <nav>
-      <ul>
-        <li><a href="{{ site.url }}/teaching">Teaching</a></li>
-        <li><a href="{{ site.url }}/research">Research</a></li>
-      </ul>
-    </nav>
-    <main>
-      {{ content }}
-    </main>
+    <div id="header-wrapper">
+      <header>
+	<div id="h-wrapper">
+	  <h1><a href="{{ site.url }}">Doug Torrance</a></h1>
+	  <h2>Associate Professor of Mathematics<br>
+            <a href="https://www.piedmont.edu">Piedmont College</a></h2>
+	</div>
+	<nav>
+	  <ul>
+            <li><a href="{{ site.url }}/teaching">Teaching</a></li>
+            <li><a href="{{ site.url }}/research">Research</a></li>
+	  </ul>
+	</nav>
+      </header>
+    </div>
+    <div id="main-wrapper">
+      <main>
+	{{ content }}
+      </main>
     </div>
   </body>
 </html>
