@@ -57,7 +57,11 @@ h1 {
     font-size: 40px;
 }
 
-h2, h3  {
+h2 {
+    font-size: 20px;
+}
+
+h3  {
     font-size: 24px;
 }
 
@@ -82,7 +86,7 @@ header a:hover {
 
 nav {
     flex-grow: 1;
-    padding: var(--my-padding);
+    padding: 0px;
     display: flex;
     align-items: center;
 }
@@ -100,7 +104,7 @@ nav li {
 }
 
 nav a {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 #main-wrapper {
