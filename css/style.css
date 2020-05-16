@@ -164,6 +164,10 @@ a:hover {
 }
 
 @media screen and (max-width: 800px) {
+    nav {
+	margin-top: var(--my-padding);
+    }
+
     header, nav li {
 	flex-direction: column;
     }
