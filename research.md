@@ -23,7 +23,7 @@ permalink: research
 
 #### Papers
 * *All secant varieties of the Chow variety are nondefective for
-  cubics and quaternary forms*,
+  cubics and quaternary forms*
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
   in preparation.
