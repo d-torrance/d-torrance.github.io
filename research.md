@@ -27,7 +27,8 @@ permalink: research
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
   submitted.
-  (certificates - [cubics](code/TV_Certificates_Cubics.zip),
+  ([arXiv](https://arxiv.org/abs/2005.12436),
+  certificates - [cubics](code/TV_Certificates_Cubics.zip),
   [quaternary forms](code/TV_Certificates_Quaternary_Forms.zip))
 * *Enumeration of planar Tangles*, to appear in *Proc. Math. Sci.*
   ([arXiv](https://arxiv.org/abs/1906.01541))
