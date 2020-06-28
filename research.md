@@ -48,6 +48,8 @@ permalink: research
   ([arXiv](http://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*Macaulay2 in Debian*](slides/m2internals20200626.pdf)
+  - M2internals #2, June 26, 2020
 * [*Biconal subspace arrangements*](slides/lee20190308.pdf)
   - MAA Southeastern Section Spring Meeting, Lee University, March 8, 2019
 * [*Toy trains and polyplets*](slides/clemson20180323.pdf)
