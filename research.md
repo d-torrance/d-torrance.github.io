@@ -30,7 +30,9 @@ permalink: research
   ([arXiv](https://arxiv.org/abs/2005.12436),
   certificates - [cubics](code/TV_Certificates_Cubics.zip),
   [quaternary forms](code/TV_Certificates_Quaternary_Forms.zip))
-* *Enumeration of planar Tangles*, to appear in *Proc. Math. Sci.*
+* [*Enumeration of planar Tangles*](
+  https://doi.org/10.1007/s12044-020-00575-7),
+  *Proc. Math. Sci.* 130, 50 (2020).
   ([arXiv](https://arxiv.org/abs/1906.01541))
 * [*Generic forms of low Chow rank*](
   http://dx.doi.org/10.1142/S0219498817500475),
