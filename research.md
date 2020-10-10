@@ -50,6 +50,9 @@ permalink: research
   ([arXiv](http://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*All secant varieties of the Chow variety are nondefective for
+  cubics and quaternary forms*](slides/amsvirtual20201010.pdf)
+  - AMS Southeastern Section Fall Meeting, Virtual, October 10, 2020
 * [*Macaulay2 in Debian*](slides/m2internals20200626.pdf)
   - M2internals #2, June 26, 2020
 * [*Biconal subspace arrangements*](slides/lee20190308.pdf)
