@@ -26,7 +26,7 @@ permalink: research
   cubics and quaternary forms*
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
-  submitted.
+  to appear in *Trans. Amer. Math. Soc.*.
   ([arXiv](https://arxiv.org/abs/2005.12436),
   certificates - [cubics](code/TV_Certificates_Cubics.zip),
   [quaternary forms](code/TV_Certificates_Quaternary_Forms.zip))
