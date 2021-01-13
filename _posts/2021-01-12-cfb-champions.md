@@ -15,9 +15,7 @@ season not taking place during a global pandemic...  The next closest
 is Florida State's 39.34375 "wins" in 2014.
 
 1 - Alabama (13-0) (32.3203125)  
-2 - Louisiana (1
-
-0-1) (24.53650665283203)  
+2 - Louisiana (10-1) (24.53650665283203)  
 3 - Coastal Carolina (11-1) (22.807388305664062)  
 4 - BYU (11-1) (22.77869415283203)  
 5 - Texas A&M (9-1) (22.6640625)  
