@@ -4,15 +4,13 @@ permalink: teaching
 ---
 
 ### Teaching
-#### Fall 2020
-* MATH 1005 - [Intermediate Algebra](
-  https://piedmont.instructure.com/courses/17960)
-* MATH 1300 - Elementary Statistics
-  ([Demorest](https://piedmont.instructure.com/courses/17839))
-  ([Online](https://piedmont.instructure.com/courses/17963))
-* MATH 2600 - [Linear Algebra](
-  https://piedmont.instructure.com/courses/17846)
-* CSCI 1301 - [Programming Principles I](
-  https://piedmont.instructure.com/courses/17929)
-* CSCI 2900 - [Data Structures](
-  https://piedmont.instructure.com/courses/17936)
+#### Spring 2021
+* MATH 1113 - Precalculus
+  ([Demorest](https://piedmont.instructure.com/courses/19550))
+  ([Online](https://piedmont.instructure.com/courses/19554))
+* MATH 2300 - [Discrete Mathematics](
+  https://piedmont.instructure.com/courses/19548)
+* CSCI 1302 - [Programming Principles II](
+  https://piedmont.instructure.com/courses/19549)
+* CSCI 3400 - [Software Development](
+  https://piedmont.instructure.com/courses/20047)
