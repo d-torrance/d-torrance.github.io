@@ -22,8 +22,9 @@ permalink: research
 * [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
 
 #### Papers
-* *All secant varieties of the Chow variety are nondefective for
-  cubics and quaternary forms*
+* [*All secant varieties of the Chow variety are nondefective for
+  cubics and quaternary forms*](
+  https://doi.org/10.1090/tran/8340),
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
   to appear in *Trans. Amer. Math. Soc.*.
