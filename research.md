@@ -51,6 +51,8 @@ permalink: research
   ([arXiv](http://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*The Chow-Waring problem*](slides/uidaho20210415.pdf)
+  - University of Idaho Mathematics Colloquium, Virtual, April 15, 2021
 * [*Enumeration of planar Tangles*](slides/maavirtual20210306.pdf)
   - MAA Southeastern Section Spring Meeting, Virtual, March 6, 2021
 * [*All secant varieties of the Chow variety are nondefective for
