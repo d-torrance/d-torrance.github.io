@@ -27,7 +27,7 @@ permalink: research
   https://doi.org/10.1090/tran/8340),
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
-  *Trans. Amer. Math. Soc.*. 374 (2021), no. 7, 4815-4838.
+  *Trans. Amer. Math. Soc.* 374 (2021), no. 7, 4815-4838.
   ([arXiv](https://arxiv.org/abs/2005.12436),
   certificates - [cubics](code/TV_Certificates_Cubics.zip),
   [quaternary forms](code/TV_Certificates_Quaternary_Forms.zip))
