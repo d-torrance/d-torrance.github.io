@@ -4,13 +4,12 @@ permalink: teaching
 ---
 
 ### Teaching
-#### Spring 2021
-* MATH 1113 - Precalculus
-  ([Demorest](https://piedmont.instructure.com/courses/19550))
-  ([Online](https://piedmont.instructure.com/courses/19554))
-* MATH 2300 - [Discrete Mathematics](
-  https://piedmont.instructure.com/courses/19548)
-* CSCI 1302 - [Programming Principles II](
-  https://piedmont.instructure.com/courses/19549)
-* CSCI 3400 - [Software Development](
-  https://piedmont.instructure.com/courses/20047)
+#### Fall 2021
+* CSCI 1301 - [Programming Principles I](
+  https://piedmont.instructure.com/courses/21696)
+* MATH 1300 - [Elementary Statistics](
+  https://piedmont.instructure.com/courses/21708)
+* MATH 3300 - [Probability](
+  https://piedmont.instructure.com/courses/21647)
+* MATH 6900 - [Probability and Statistics for Teachers](
+  https://piedmont.instructure.com/courses/21714)
