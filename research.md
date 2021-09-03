@@ -51,6 +51,8 @@ permalink: research
   ([arXiv](http://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*Best of Macaulay2 crashes*](slides/best-of-m2-crashes.m2)
+  - M2internals, September 2, 2021
 * [*The Chow-Waring problem*](slides/uidaho20210415.pdf)
   - University of Idaho Mathematics Colloquium, Virtual, April 15, 2021
 * [*Enumeration of planar Tangles*](slides/maavirtual20210306.pdf)
