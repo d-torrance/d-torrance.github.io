@@ -22,6 +22,11 @@ permalink: research
 * [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
 
 #### Papers
+* *Almost all subgeneric third-order Chow decompositions are identifiable*,
+  (with [Nick Vannieuwenhoven](
+  https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
+  submitted,
+  ([arXiv](https://arxiv.org/abs/2112.06980))
 * [*All secant varieties of the Chow variety are nondefective for
   cubics and quaternary forms*](
   https://doi.org/10.1090/tran/8340),
