@@ -26,7 +26,8 @@ permalink: research
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
   submitted.
-  ([arXiv](https://arxiv.org/abs/2112.06980))
+  ([arXiv](https://arxiv.org/abs/2112.06980),
+  [certificates](code/Chow3_HPC_20191223.zip))
 * [*All secant varieties of the Chow variety are nondefective for
   cubics and quaternary forms*](
   https://doi.org/10.1090/tran/8340),
