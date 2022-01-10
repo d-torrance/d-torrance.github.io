@@ -4,12 +4,12 @@ permalink: teaching
 ---
 
 ### Teaching
-#### Fall 2021
-* CSCI 1301 - [Programming Principles I](
-  https://piedmont.instructure.com/courses/21696)
-* MATH 1300 - [Elementary Statistics](
-  https://piedmont.instructure.com/courses/21708)
-* MATH 3300 - [Probability](
-  https://piedmont.instructure.com/courses/21647)
-* MATH 6900 - [Probability and Statistics for Teachers](
-  https://piedmont.instructure.com/courses/21714)
+#### Spring 2022
+* CSCI 1302 - [Programming Principles II](
+  https://piedmont.instructure.com/courses/22521)
+* CSCI 3200 - [Algorithm Analysis](
+  https://piedmont.instructure.com/courses/23185)
+* MATH 2480 - [Introduction to Differential Equations](
+  https://piedmont.instructure.com/courses/22522)
+* MATH 3310 - [Mathematical Statistics](
+  https://piedmont.instructure.com/courses/22523)
