@@ -25,7 +25,7 @@ permalink: research
 * *Almost all subgeneric third-order Chow decompositions are identifiable*,
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
-  submitted.
+  to appear in *Ann. Mat. Pura Appl.*.
   ([arXiv](https://arxiv.org/abs/2112.06980),
   [certificates](code/Chow3_HPC_20191223.zip))
 * [*All secant varieties of the Chow variety are nondefective for
