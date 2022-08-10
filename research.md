@@ -22,7 +22,8 @@ permalink: research
 * [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
 
 #### Papers
-* *Almost all subgeneric third-order Chow decompositions are identifiable*,
+* [*Almost all subgeneric third-order Chow decompositions are identifiable*](
+  https://doi.org/10.1007/s10231-022-01224-8),
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
   to appear in *Ann. Mat. Pura Appl.*.
