@@ -49,7 +49,7 @@ permalink: research
 * [*Castelnuovo-Mumford regularity and arithmetic Cohen-Macaulayness of
   complete bipartite subspace arrangements*](
   http://dx.doi.org/10.1016/j.jpaa.2014.07.027)
-  (with [Zach Teitler](https://sites.google.com/site/zteitler/home)),
+  (with [Zach Teitler](https://zteitler.github.io/)),
   *J. Pure Appl. Algebra* 219 (2015), no. 6, 2134–2138.
   ([arXiv](http://arxiv.org/abs/1209.2075))
 * [*Nondefective secant varieties of varieties of completely decomposable
