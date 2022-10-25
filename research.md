@@ -26,7 +26,7 @@ permalink: research
   https://doi.org/10.1007/s10231-022-01224-8),
   (with [Nick Vannieuwenhoven](
   https://people.cs.kuleuven.be/~nick.vannieuwenhoven/)),
-  to appear in *Ann. Mat. Pura Appl.*.
+  *Ann. Mat. Pura Appl.* (4) 201 (2022), no. 6, 2891–2905.
   ([arXiv](https://arxiv.org/abs/2112.06980),
   [certificates](code/Chow3_HPC_20191223.zip))
 * [*All secant varieties of the Chow variety are nondefective for
