@@ -58,8 +58,11 @@ permalink: research
   ([arXiv](http://arxiv.org/abs/1306.1293))
 
 #### Slides
-* [*Induction and secant varieties to Chow varieties*](slides/agates20221026.pdf)
-  - AGATES: Geometry of secants workshop, IMPAN, Warsaw, Poland, October 26, 2022
+* [*Induction and secant varieties to Chow varieties*](
+slides/agates20221026.pdf)
+  - AGATES: [Geometry of secants workshop](
+  https://agates.mimuw.edu.pl/index.php/agates/geometry-of-secants),
+  IMPAN, Warsaw, Poland, October 26, 2022
 * [*Best of Macaulay2 crashes*](slides/best-of-m2-crashes.m2)
   - M2internals, September 2, 2021
 * [*The Chow-Waring problem*](slides/uidaho20210415.pdf)
