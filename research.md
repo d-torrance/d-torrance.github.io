@@ -22,6 +22,9 @@ permalink: research
 * [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
 
 #### Papers
+* *Probability package for Macaulay2*, submitted.
+  ([arXiv](https://arxiv.org/abs/2212.09793),
+  [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/Probability.m2))
 * [*Almost all subgeneric third-order Chow decompositions are identifiable*](
   https://doi.org/10.1007/s10231-022-01224-8),
   (with [Nick Vannieuwenhoven](
