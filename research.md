@@ -67,7 +67,7 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
 
 #### Slides
 * [*Triangular and hexagonal Tangles*](
-slides/coastal-carolina-202310.pdf)
+slides/coastal-carolina-20230310.pdf)
   - MAA Southeastern Section Meeting, Coastal Carolina University,
     March 10, 2023
 * [*Induction and secant varieties to Chow varieties*](
