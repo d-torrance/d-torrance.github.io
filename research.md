@@ -80,16 +80,16 @@ slides/agates20221026.pdf)
 * [*The Chow-Waring problem*](slides/uidaho20210415.pdf)
   - University of Idaho Mathematics Colloquium, Virtual, April 15, 2021
 * [*Enumeration of planar Tangles*](slides/maavirtual20210306.pdf)
-  - MAA Southeastern Section Spring Meeting, Virtual, March 6, 2021
+  - MAA Southeastern Section Meeting, Virtual, March 6, 2021
 * [*All secant varieties of the Chow variety are nondefective for
   cubics and quaternary forms*](slides/amsvirtual20201010.pdf)
   - AMS Southeastern Section Fall Meeting, Virtual, October 10, 2020
 * [*Macaulay2 in Debian*](slides/m2internals20200626.pdf)
   - M2internals #2, June 26, 2020
 * [*Biconal subspace arrangements*](slides/lee20190308.pdf)
-  - MAA Southeastern Section Spring Meeting, Lee University, March 8, 2019
+  - MAA Southeastern Section Meeting, Lee University, March 8, 2019
 * [*Toy trains and polyplets*](slides/clemson20180323.pdf)
-  - MAA Southeastern Section Spring Meeting, Clemson University, March 23, 2018
+  - MAA Southeastern Section Meeting, Clemson University, March 23, 2018
 * [*Generic forms of low Chow rank*](slides/jmm20170106.pdf)
   - AMS Central Section Spring Meeting, The Ohio State University, March 18,
     2018 (as *The Chow-Waring problem*)
