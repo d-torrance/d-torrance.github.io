@@ -66,6 +66,9 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
   ([arXiv](http://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*An exponential bound for nondefective secant varieties of Chow varieties](
+slides/georgia-tech-20230318.pdf)
+  - AMS Southeastern Section Spring Meeting, Georgia Tech, March 18, 2023
 * [*Triangular and hexagonal Tangles*](
 slides/coastal-carolina-20230310.pdf)
   - MAA Southeastern Section Meeting, Coastal Carolina University,
