@@ -14,13 +14,13 @@ permalink: research
 I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaulay2/) and member of the [M2internals](https://github.com/Macaulay2/M2/wiki/Internals%3A-Meeting-Notes) group.  I am also a Debian Developer and maintain Macaulay2 and other related mathematics software for [Debian](https://www.debian.org/).
 
 #### Links
-* [arXiv](http://arxiv.org/a/torrance_d_1.html)
+* [arXiv](https://arxiv.org/a/torrance_d_1.html)
 * [Google Scholar](
   https://scholar.google.com/citations?user=Kt-XNUgAAAAJ&hl=en)
 * [MathSciNet](
   http://www.ams.org/mathscinet/search/author.html?mrauthid=1094385)
 * [Mathematics Genealogy Project](
-  http://www.genealogy.ams.org/id.php?id=174302)
+  https://www.mathgenealogy.org/id.php?id=174302)
   ([my tree]({{ site.url }}/genealogy), generated with
   [geneagrapher](https://github.com/davidalber/geneagrapher))
 * [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
@@ -51,19 +51,19 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
   *Proc. Math. Sci.* 130, 50 (2020).
   ([arXiv](https://arxiv.org/abs/1906.01541))
 * [*Generic forms of low Chow rank*](
-  http://dx.doi.org/10.1142/S0219498817500475),
+  https://dx.doi.org/10.1142/S0219498817500475),
   *J. Algebra Appl.* 16 (2017), no. 3, 1750047, 10 pp.
-  ([arXiv](http://arxiv.org/abs/1508.05546))
+  ([arXiv](https://arxiv.org/abs/1508.05546))
 * [*Castelnuovo-Mumford regularity and arithmetic Cohen-Macaulayness of
   complete bipartite subspace arrangements*](
-  http://dx.doi.org/10.1016/j.jpaa.2014.07.027)
+  https://dx.doi.org/10.1016/j.jpaa.2014.07.027)
   (with [Zach Teitler](https://zteitler.github.io/)),
   *J. Pure Appl. Algebra* 219 (2015), no. 6, 2134–2138.
-  ([arXiv](http://arxiv.org/abs/1209.2075))
+  ([arXiv](https://arxiv.org/abs/1209.2075))
 * [*Nondefective secant varieties of varieties of completely decomposable
   forms*](https://search.proquest.com/docview/1448339101),
   Ph.D. thesis, University of Idaho (2013)
-  ([arXiv](http://arxiv.org/abs/1306.1293))
+  ([arXiv](https://arxiv.org/abs/1306.1293))
 
 #### Slides
 * [*Installing and using Macaulay2*](slides/georgia-tech-20230416.pdf)
