@@ -27,6 +27,14 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
 * [GitHub](https://github.com/d-torrance)
 
 #### Papers
+* *Geometry of first nonempty Terracini loci*,
+  (with Francesco Galuppi,
+   [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola),
+   and
+   [Ettore Teixeira Turatti](https://turattiettore.wixsite.com/ettoreturatti)),
+  submitted.
+  ([arXiv](https://arxiv.org/abs/2311.09067),
+   [code](https://github.com/d-torrance/terracini-loci))
 * *Probability package for Macaulay2*, submitted.
   ([arXiv](https://arxiv.org/abs/2212.09793),
   [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/Probability.m2))
