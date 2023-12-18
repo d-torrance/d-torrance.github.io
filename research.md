@@ -74,6 +74,8 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
   ([arXiv](https://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*RInterface package*](slides/r-interface.html)
+  - M2internals, December 18, 2023
 * [*Installing and using Macaulay2*](slides/georgia-tech-20230416.pdf)
   - MAAG, Georgia Tech, April 16, 2023
 * [*An exponential bound for nondefective secant varieties of Chow varieties*](
