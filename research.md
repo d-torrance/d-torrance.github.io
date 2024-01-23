@@ -35,7 +35,8 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
   submitted.
   ([arXiv](https://arxiv.org/abs/2311.09067),
    [code](https://github.com/d-torrance/terracini-loci))
-* *Probability package for Macaulay2*, submitted.
+* *Probability package for Macaulay2*, accepted to [*J. Softw. Algebra Geom*](
+  https://msp.org/jsag/).
   ([arXiv](https://arxiv.org/abs/2212.09793),
   [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/Probability.m2))
 * [*Almost all subgeneric third-order Chow decompositions are identifiable*](
