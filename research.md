@@ -75,7 +75,7 @@ I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaul
   ([arXiv](https://arxiv.org/abs/1306.1293))
 
 #### Slides
-* [*Semiregular Tangles](slides/tennessee-2025-03-15.pdf)
+* [*Semiregular Tangles*](slides/tennessee-2024-03-15.pdf)
   - MAA Southeastern Section Meeting, University of Tennessee,
     March 15, 2024
 * [*RInterface package*](slides/r-interface.html)
