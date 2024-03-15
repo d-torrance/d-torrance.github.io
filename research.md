@@ -11,7 +11,7 @@ permalink: research
 
 #### Software
 
-I am an active developer of [Macaulay2](https://faculty.math.illinois.edu/Macaulay2/) and member of the [M2internals](https://github.com/Macaulay2/M2/wiki/Internals%3A-Meeting-Notes) group.  I am also a Debian Developer and maintain Macaulay2 and other related mathematics software for [Debian](https://www.debian.org/).
+I am an active developer of [Macaulay2](https://macaulay2.com/) and member of the [M2internals](https://github.com/Macaulay2/M2/wiki/Internals%3A-Meeting-Notes) group.  I am also a Debian Developer and maintain Macaulay2 and other related mathematics software for [Debian](https://www.debian.org/).
 
 #### Links
 * [arXiv](https://arxiv.org/a/torrance_d_1.html)
