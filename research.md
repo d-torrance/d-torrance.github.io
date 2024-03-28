@@ -35,7 +35,7 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   submitted.
   ([arXiv](https://arxiv.org/abs/2311.09067),
    [code](https://github.com/d-torrance/terracini-loci))
-* *Probability package for Macaulay2*, accepted to [*J. Softw. Algebra Geom*](
+* *Probability package for Macaulay2*, to appear in [*J. Softw. Algebra Geom*](
   https://msp.org/jsag/).
   ([arXiv](https://arxiv.org/abs/2212.09793),
   [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/Probability.m2))
