@@ -58,7 +58,8 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
 * [*Enumeration of planar Tangles*](
   https://doi.org/10.1007/s12044-020-00575-7),
   *Proc. Math. Sci.* 130, 50 (2020).
-  ([arXiv](https://arxiv.org/abs/1906.01541))
+  ([arXiv](https://arxiv.org/abs/1906.01541),
+  [code](https://github.com/d-torrance/tanglenum))
 * [*Generic forms of low Chow rank*](
   https://dx.doi.org/10.1142/S0219498817500475),
   *J. Algebra Appl.* 16 (2017), no. 3, 1750047, 10 pp.
