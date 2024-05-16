@@ -5,9 +5,8 @@ permalink: research
 
 ### Research
 #### Interests
-* Algebraic geometry
-* Commutative algebra
-* Graph theory
+* Computational algebraic geometry and commutative algebra
+* Recreational combinatorics
 
 #### Software
 
