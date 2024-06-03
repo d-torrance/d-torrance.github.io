@@ -26,6 +26,10 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
 * [GitHub](https://github.com/d-torrance)
 
 #### Papers
+* *Properties of regular Tangles*,
+  (with [Rebecca Bowen](https://sites.google.com/view/rebeccabowen)
+  and Sadie Pruitt), submitted.
+  ([arXiv](https://arxiv.org/abs/2405.20793))
 * *ForeignFunctions package for Macaulay2*, submitted.
   ([arXiv](https://arxiv.org/abs/2405.12365),
    [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/ForeignFunctions.m2))
