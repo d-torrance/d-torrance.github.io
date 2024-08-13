@@ -4,6 +4,5 @@ permalink: teaching
 ---
 
 ### Teaching
-#### Summer 2024
-* MATH 2700 - [Discrete Mathematics](
-  https://piedmont.instructure.com/courses/28913)
+#### Fall 2024
+* MATH 2470 - [Calculus III](https://piedmont.instructure.com/courses/29248)
