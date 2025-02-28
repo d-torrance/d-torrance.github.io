@@ -85,6 +85,9 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   ([arXiv](https://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*The Gauss-Bonnet theorem and triangular Tangles*](slides/highpoint-2025-02-28.pdf)
+  - MAA Southeastern Section Meeting, High Point University,
+    February 28, 2025
 * [*Semiregular Tangles*](slides/tennessee-2024-03-15.pdf)
   - MAA Southeastern Section Meeting, University of Tennessee,
     March 15, 2024
