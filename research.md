@@ -40,7 +40,7 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
    [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola),
    and
    [Ettore Teixeira Turatti](https://turattiettore.wixsite.com/ettoreturatti)),
-  submitted.
+  to appear in *Commun. Contemp. Math.*
   ([arXiv](https://arxiv.org/abs/2311.09067),
    [code](https://github.com/d-torrance/terracini-loci))
 * [*Probability package for Macaulay2*](
