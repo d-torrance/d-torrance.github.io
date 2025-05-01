@@ -35,7 +35,8 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   *J. Softw. Algebra Geom.* 15-1 (2025), 1-9.
   ([arXiv](https://arxiv.org/abs/2405.12365),
    [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/ForeignFunctions.m2))
-* *Geometry of first nonempty Terracini loci*,
+* [*Geometry of first nonempty Terracini loci*,](
+  https://doi.org/10.1142/S0219199725500531)
   (with Francesco Galuppi,
    [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola),
    and
