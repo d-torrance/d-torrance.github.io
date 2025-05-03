@@ -4,5 +4,6 @@ permalink: teaching
 ---
 
 ### Teaching
-#### Fall 2024
-* MATH 2470 - [Calculus III](https://piedmont.instructure.com/courses/28614)
+#### Spring 2025
+* MATH 1113 - [Precalculus](https://piedmont.instructure.com/courses/29361)
+* MATH 3500 - [Numerical Methods](https://piedmont.instructure.com/courses/29414)
