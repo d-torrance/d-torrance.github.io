@@ -37,11 +37,11 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
    [code](https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/ForeignFunctions.m2))
 * [*Geometry of first nonempty Terracini loci*,](
   https://doi.org/10.1142/S0219199725500531)
-  (with Francesco Galuppi,
+  (with [Francesco Galuppi](https://www.mimuw.edu.pl/~galuppi/),
    [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola),
    and
    [Ettore Teixeira Turatti](https://turattiettore.wixsite.com/ettoreturatti)),
-  to appear in *Commun. Contemp. Math.*
+   *Commun. Contemp. Math.* 28 (2026), no. 4, Paper No. 2550053.
   ([arXiv](https://arxiv.org/abs/2311.09067),
    [code](https://github.com/d-torrance/terracini-loci))
 * [*Probability package for Macaulay2*](
