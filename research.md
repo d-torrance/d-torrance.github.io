@@ -18,6 +18,7 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   https://scholar.google.com/citations?user=Kt-XNUgAAAAJ&hl=en)
 * [MathSciNet](
   http://www.ams.org/mathscinet/search/author.html?mrauthid=1094385)
+* [ORCID](https://orcid.org/0000-0003-3999-4973)
 * [Mathematics Genealogy Project](
   https://www.mathgenealogy.org/id.php?id=174302)
   ([my tree]({{ site.url }}/genealogy), generated with
