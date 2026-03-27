@@ -87,6 +87,9 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   ([arXiv](https://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*Tangles and computational algebraic geometry*](https://d-torrance.github.io/maa-se-2026-tangles/)
+  - MAA Southeastern Section Meeting, University of North Alabama,
+	March 27, 2026
 * [*The Gauss-Bonnet theorem and triangular Tangles*](slides/highpoint-2025-02-28.pdf)
   - MAA Southeastern Section Meeting, High Point University,
     February 28, 2025
