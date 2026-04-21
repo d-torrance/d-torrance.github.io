@@ -27,6 +27,10 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
 * [GitHub](https://github.com/d-torrance)
 
 #### Papers
+* *Implementing p-adic numbers in Macaulay2 using its foreign function interface and FLINT*,
+  submitted.
+  ([arXiv](https://arxiv.org/abs/2604.16799),
+   [code](https://github.com/d-torrance/macaulay2-padic))
 * *Properties of regular Tangles*,
   (with [Rebecca Bowen](https://sites.google.com/view/rebeccabowen)
   and Sadie Pruitt), submitted.
