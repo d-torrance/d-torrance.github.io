@@ -4,6 +4,9 @@ permalink: teaching
 ---
 
 ### Teaching
+
+*Classes below were taught at [Piedmont University](https://www.piedmont.edu).*
+
 #### Spring 2026
 * MATH 1113 - Elementary Statistics
 * MATH 3310 - Mathematical Statistics
