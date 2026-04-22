@@ -6,7 +6,6 @@ permalink: research
 ### Research
 #### Interests
 * Computational algebraic geometry and commutative algebra
-* Recreational combinatorics
 
 #### Software
 
