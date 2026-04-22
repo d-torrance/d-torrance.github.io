@@ -16,8 +16,14 @@ permalink: travel
 * February 27 - March 1, [MAA-SE 2025](https://scholarlattice.org/collections/5c3bd50e-9e5f-4475-ba26-30d8c7125ae3), High Point University, High Point, NC
 * February 6 - 11, [Micro-workshop on Internal Workings of Macaulay2](http://www.fields.utoronto.ca/activities/24-25/commutative-Macaulay2), Fields Institute, Toronto, ON
 
+#### 2024
+* March 14 - 16, MAA-SE 2024, University of Tennessee, Knoxville, TN
+
 #### 2023
 * September 25 - 29, [Macaulay2: expanded functionality and improved efficiency](https://aimath.org/pastworkshops/macaulay2efie.html), American Institute of Mathematics, Pasadena, CA
+* April 15 - 16, [MAAG 2023](https://sites.google.com/view/maag-2023/home), Georgia Tech, Atlanta, GA
+* March 18 - 19, [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2298_program.html), Georgia Tech, Atlanta, GA
+* March 9 - 11, MAA-SE 2023, Coastal Carolina University, Conway, SC
 
 #### 2022
 * October 24 - 28, [AGATES: Geometry of secants workshop](https://agates.mimuw.edu.pl/index.php/agates/geometry-of-secants.html), IMPAN, Warsaw, PL
