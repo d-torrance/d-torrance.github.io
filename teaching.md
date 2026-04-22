@@ -21,15 +21,15 @@ permalink: teaching
 #### Fall 2024
 * MATH 2470 - Calculus III
 
-### Summer 2024
+#### Summer 2024
 * MATH 2700 - Discrete Mathematics
 
-### Spring 2024
+#### Spring 2024
 * MATH 1113 - Precalculus]
 * MATH 2460 - Calculus II
 * MATH 3310 - Mathematical Statistics
 
-### Fall 2023
+#### Fall 2023
 * MATH 1300 - Elementary Statistics
 * MATH 2470 - Calculus III
 
@@ -47,7 +47,7 @@ permalink: teaching
 * CSCI 1301 - Programming Principles I
 * CSCI 4000 - Programming Languages
 
-### Summer 2022
+#### Summer 2022
 * MATH 1300 - Elementary Statistics
 
 #### Spring 2022
