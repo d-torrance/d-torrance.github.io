@@ -22,7 +22,7 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   https://www.mathgenealogy.org/id.php?id=174302)
   ([my tree]({{ site.url }}/genealogy), generated with
   [geneagrapher](https://github.com/davidalber/geneagrapher))
-* [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4
+* [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): 4 (Torrance → Teitler → Sottile → Pollack → Erdős)
 * [GitHub](https://github.com/d-torrance)
 
 #### Papers
