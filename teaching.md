@@ -25,7 +25,7 @@ permalink: teaching
 * MATH 2700 - Discrete Mathematics
 
 #### Spring 2024
-* MATH 1113 - Precalculus]
+* MATH 1113 - Precalculus
 * MATH 2460 - Calculus II
 * MATH 3310 - Mathematical Statistics
 
@@ -37,7 +37,7 @@ permalink: teaching
 * MATH 1300 - Elementary Statistics
 
 #### Spring 2023
-* MATH 2300 - Discrete Mathematics]
+* MATH 2300 - Discrete Mathematics
 * MATH 2460 - Calculus II
 * CSCI 1302 - Programming Principles II
 
