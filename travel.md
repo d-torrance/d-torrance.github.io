@@ -27,3 +27,4 @@ permalink: travel
 
 #### 2022
 * October 24 - 28, [AGATES: Geometry of secants workshop](https://agates.mimuw.edu.pl/index.php/agates/geometry-of-secants.html), IMPAN, Warsaw, PL
+* May 26 - 29, [M2internals meeting and Macaulay2 conference](https://math.galetto.org/m2csu/), Cleveland State University, Cleveland, OH
