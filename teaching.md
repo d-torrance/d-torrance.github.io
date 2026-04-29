@@ -91,7 +91,7 @@ permalink: teaching
 * MATH 3300 - Probability
 
 #### Fall 2018
-# MATH 1113 - Precalculus
+* MATH 1113 - Precalculus
 * MATH 2450 - Calculus I
 * MATH 2600 - Linear Algebra
 
