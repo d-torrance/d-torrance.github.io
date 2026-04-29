@@ -78,15 +78,60 @@ permalink: teaching
 #### Summer 2020
 * MATH 1300 - Elementary Statistics
 
+#### Spring 2020
+* CSCI 1302 - Programming Principles II
+* MATH 1005 - Intermediate Algebra
+* MATH 1113 - Precalculus
+* MATH 3310 - Mathematical Statistics
+* MATH 4960 - Senior Seminar
 
+#### Fall 2019
+* CSCI 1301 - Programming Principles I
+* MATH 1300 - Elementary Statistics
+* MATH 3300 - Probability
 
+#### Fall 2018
+# MATH 1113 - Precalculus
+* MATH 2450 - Calculus I
+* MATH 2600 - Linear Algebra
 
+#### Summer 2018
+* MATH 2100 - Elementary Statistics
 
+#### Spring 2018
+* MATH 2100 - Elementary Statistics
+* MATH 2460 - Calculus II
+* MATH 3500 - Numerical Methods
+* MATH 3600 - Abstract Algebra
 
+#### Fall 2017
+* MATH 1113 - Precalculus
+* MATH 2470 - Calculus III
+* MATH 3300 - Probability
+* MATH 3550 - Linear Algebra
 
+#### Spring 2017
+* MATH 1113 - Precalculus
+* MATH 2460 - Calculus II
+* MATH 4100 - Mathematical Modeling
 
+#### Fall 2016
+* MATH 1100 - College Algebra
+* MATH 1113 - Precalculus
+* MATH 2050 - Math for the Liberal Arts
+* MATH 2470 - Calculus III
+* MATH 3400 - Number Theory
 
+#### Spring 2016
+* MATH 1113 - Precalculus
+* MATH 2050 - Math for the Liberal Arts
+* MATH 2460 - Calculus II
 
+#### Fall 2015
+* MATH 1113 - Precalculus
+* MATH 2100 - Elementary Statistics
+* MATH 2470 - Calculus III
+* MATH 3500 - Elementary Numerical Methods
 
 
 
