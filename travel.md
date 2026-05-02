@@ -53,7 +53,7 @@ permalink: travel
 
 #### 2012
 * June 24 - 27, AAAS Pacific Division 93rd Annual Meeting, Boise State University, Boise, ID
-* June 17 - 23, [Mathematical Research Communities: Geometry and Representation Theory Related to Geometric Complexity and Other Variants of P v. NP](Geometry and Representation Theory Related to Geometric Complexity and Other Variants of P v. NP), Snowbird, UT
+* June 17 - 23, [Mathematical Research Communities: Geometry and Representation Theory Related to Geometric Complexity and Other Variants of P v. NP](https://www.ams.org/learning-careers/profdev/research-communities/mrc-12-highlights), Snowbird, UT
 
 #### 2011
 * October 14 - 16, [AMS Fall Central Section Meeting](https://www.ams.org/meetings/sectional/2185_program.html), University of Nebraska, Lincoln, NE
