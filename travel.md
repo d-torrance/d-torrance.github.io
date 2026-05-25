@@ -7,7 +7,7 @@ permalink: travel
 #### 2026
 * July 20 - 23, [ICMS 2026](https://icms-conference.org/2026/), University of Waterloo, Waterloo, ON
 * June 29 - July 3, [Macaulay2 Workshop](https://sites.google.com/view/warwick-macaulay2-workshop/home), University of Warwick, Coventry, UK
-* May 13 - May 21, [The Future of Macaulay2](https://d-torrance.github.io/m2gt26/), Georgia Tech, Atlanta, GA
+* May 13 - May 21, [The Future of Macaulay2](https://d-torrance.github.io/m2gt26/), Georgia Tech, Atlanta, GA *(co-organizer)*
 * April 17 - April 19, [MAAG 2026](https://klee669.github.io/maag), Clemson University, Clemson, SC
 * March 26 - 28, [MAA-SE 2026](https://scholarlattice.org/collections/7cc4eb45-f1f1-477a-a43b-3905770a2be2), University of North Alabama, Florence, AL
 
