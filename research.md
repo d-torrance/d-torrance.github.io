@@ -26,8 +26,15 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
 * [GitHub](https://github.com/d-torrance)
 
 #### Papers
+* *A Macaulay2-Lean interface for bridging proof and computation*,
+  (with [Matthew Ballard](https://www.matthewrobertballard.com/),
+  [Anton Leykin](https://antonleykin.math.gatech.edu/),
+  [Michael E. Stillman](https://pi.math.cornell.edu/~mike/),
+  [Damiano Testa](https://adomani.github.io/), and
+  [Jay Yang](https://jkyang92.github.io/),
+  accepted to *Lect. Notes Comput. Sci.*
 * *Implementing p-adic numbers in Macaulay2 using its foreign function interface and FLINT*,
-  submitted.
+  accepted to *Lect. Notes Comput. Sci.*
   ([arXiv](https://arxiv.org/abs/2604.16799),
    [code](https://github.com/d-torrance/macaulay2-padic))
 * *Properties of regular Tangles*,
