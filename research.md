@@ -31,7 +31,7 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   [Anton Leykin](https://antonleykin.math.gatech.edu/),
   [Michael E. Stillman](https://pi.math.cornell.edu/~mike/),
   [Damiano Testa](https://adomani.github.io/), and
-  [Jay Yang](https://jkyang92.github.io/),
+  [Jay Yang](https://jkyang92.github.io/)),
   accepted to *Lect. Notes Comput. Sci.*
 * *Implementing p-adic numbers in Macaulay2 using its foreign function interface and FLINT*,
   accepted to *Lect. Notes Comput. Sci.*
