@@ -33,6 +33,7 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   [Damiano Testa](https://adomani.github.io/), and
   [Jay Yang](https://jkyang92.github.io/)),
   accepted to *Lect. Notes Comput. Sci.*
+  ([code](https://github.com/Macaulean/Macaulean))
 * *Implementing p-adic numbers in Macaulay2 using its foreign function interface and FLINT*,
   accepted to *Lect. Notes Comput. Sci.*
   ([arXiv](https://arxiv.org/abs/2604.16799),
