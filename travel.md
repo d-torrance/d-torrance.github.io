@@ -5,10 +5,10 @@ permalink: travel
 
 ### Travel
 #### 2027
-* February 22 - 26 [Macaulay2 at Auburn](https://johndcobb.github.io/organizing/M2atAuburn/), Auburn University, Auburn, AL
+* February 22 - 26, [Macaulay2 at Auburn](https://johndcobb.github.io/organizing/M2atAuburn/), Auburn University, Auburn, AL
 
 #### 2026
-* October 15 - 16 [Simons MPS Annual Meeting](https://www.simonsfoundation.org/event/mps-annual-meeting-2026/), New York, NY
+* October 15 - 16, [Simons MPS Annual Meeting](https://www.simonsfoundation.org/event/mps-annual-meeting-2026/), New York, NY
 * July 20 - 23, [ICMS 2026](https://icms-conference.org/2026/), Wilfrid Laurier University, Waterloo, ON
 * June 29 - July 3, [Macaulay2 Workshop](https://sites.google.com/view/warwick-macaulay2-workshop/home), University of Warwick, Coventry, UK
 * May 13 - May 21, [The Future of Macaulay2](https://d-torrance.github.io/m2gt26/), Georgia Tech, Atlanta, GA *(co-organizer)*
