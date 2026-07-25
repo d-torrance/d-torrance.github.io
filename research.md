@@ -98,6 +98,10 @@ I am an active developer of [Macaulay2](https://macaulay2.com/) and member of th
   ([arXiv](https://arxiv.org/abs/1306.1293))
 
 #### Slides
+* [*Implementing p-adic numbers in Macaulay2 using its foreign function interface and FLINT*](https://d-torrance.github.io/macaulay2-padic/icms/)
+  ([code demo](https://nbviewer.org/github/d-torrance/macaulay2-padic/blob/master/icms/macaulay2-padic.ipynb))
+  - International Congress on Mathematical Software 2026, Wilfrid Laurier University,
+	July 23, 2026
 * [*Tangles and computational algebraic geometry*](https://d-torrance.github.io/maa-se-2026-tangles/)
   - MAA Southeastern Section Meeting, University of North Alabama,
 	March 27, 2026
