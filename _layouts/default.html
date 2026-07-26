@@ -1,9 +1,10 @@
 <!doctype html>
 <html lang="en">
+  {%- assign profile = site.data.cv.profile -%}
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Doug Torrance</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ profile.short_name }}</title>
     <link rel="stylesheet" href="{{ site.url }}/css/style.css">
     <link rel="stylesheet" href="{{ site.url }}/css/fontawesome.min.css">
     <link rel="stylesheet" href="{{ site.url }}/css/solid.min.css">
@@ -14,15 +15,16 @@
     <div id="header-wrapper">
       <header>
 	<div id="h-wrapper">
-	  <h1><a href="{{ site.url }}">Doug Torrance</a></h1>
-	  <h2>Principal Research Scientist<br>
-            <a href="https://math.gatech.edu/">Georgia Tech School of Mathematics</a></h2>
+	  <h1><a href="{{ site.url }}">{{ profile.short_name }}</a></h1>
+	  <h2>{{ profile.title }}<br>
+            <a href="{{ profile.affiliation.url }}">{{ profile.affiliation.name }}</a></h2>
 	</div>
 	<nav>
 	  <ul>
             <li><a href="{{ site.url }}/teaching">Teaching</a></li>
             <li><a href="{{ site.url }}/research">Research</a></li>
 	    <li><a href="{{ site.url }}/travel">Travel</a></li>
+	    <li><a href="{{ site.url }}/assets/cv.pdf">CV</a></li>
 	  </ul>
 	</nav>
       </header>

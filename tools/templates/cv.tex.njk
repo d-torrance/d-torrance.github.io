@@ -1,0 +1,94 @@
+% GENERATED FROM cv.yml BY tools/build-tex.js -- DO NOT EDIT.
+% Run `npm run build:pdf` to regenerate.  Edit cv.yml for content, and
+% tools/templates/cv.tex.njk for layout.
+\documentclass[11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}   % \mathbb, used by a few talk titles -- before newtxmath
+\usepackage{newtxtext, newtxmath}
+\usepackage{microtype}
+\usepackage[margin=1in, headheight=14pt, headsep=0.25in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+
+% Georgia Tech navy, matching the website.
+\definecolor{cvlink}{HTML}{003057}
+\usepackage[colorlinks=true, allcolors=cvlink, breaklinks=true]{hyperref}
+\urlstyle{same}   % URLs in the body font rather than typewriter
+\hypersetup{
+  pdftitle={ {{- pdfTitle -}} },
+  pdfauthor={ {{- pdfAuthor -}} },
+  pdfsubject={ {{- pdfSubject -}} },
+}
+
+% Section headings: small caps over a full-width rule.
+\titleformat{\section}
+  {\normalfont\large\scshape\bfseries}{}{0pt}{}
+  [\vspace{-0.7\baselineskip}\rule{\textwidth}{0.4pt}]
+\titlespacing*{\section}{0pt}{1.4\baselineskip}{0.6\baselineskip}
+
+% Entries hang: the first line is flush left, continuations are indented.
+\newlist{cventries}{itemize}{1}
+\setlist[cventries]{
+  label={}, leftmargin=1.5em, itemindent=-1.5em, labelsep=0pt,
+  topsep=0pt, itemsep=0.35\baselineskip, parsep=0pt,
+}
+
+% Sub-entries sit one step in, also hanging.
+\newlist{cvsub}{itemize}{2}
+\setlist[cvsub]{
+  label={}, leftmargin=1.5em, itemindent=-0.75em, labelsep=0pt,
+  topsep=0.2\baselineskip, itemsep=0.15\baselineskip, parsep=0pt,
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{ {{- name -}} }
+\rhead{\thepage}
+% Rule under the running head on page 2 onward, separating it from the content.
+\renewcommand{\headrulewidth}{0.4pt}
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{center}
+  {\LARGE\scshape {{ name }} }
+\end{center}
+\vspace{0.4\baselineskip}
+\hrule
+\vspace{0.8\baselineskip}
+
+\noindent\begin{tabularx}{\textwidth}{@{}X r@{}}
+{% for row in header %}
+  {{ row.left }} & {{ row.right }} \\
+{% endfor %}
+\end{tabularx}
+
+{% for section in sections %}
+\section*{ {{- section.title -}} }
+\begin{cventries}
+{% for item in section.items %}
+  \item {{ item.text }}
+{% if item.sublines | length %}
+    \begin{cvsub}
+{% for sub in item.sublines %}
+      \item {{ sub.text }}
+{% if sub.sublines | length %}
+        \begin{cvsub}
+{% for leaf in sub.sublines %}
+          \item {{ leaf.text }}
+{% endfor %}
+        \end{cvsub}
+{% endif %}
+{% endfor %}
+    \end{cvsub}
+{% endif %}
+{% endfor %}
+\end{cventries}
+{% endfor %}
+
+\end{document}

@@ -1,3 +1,11 @@
 .jekyll-cache
 _site
 *~
+
+# generated from cv.yml -- never edit or commit these
+/_data/cv.yml
+/build/
+/assets/cv.pdf
+
+# build tooling
+/node_modules/

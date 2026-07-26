@@ -1,1 +1,23 @@
 url: https://d-torrance.github.io
+title: Doug Torrance
+author: Douglas A. Torrance
+description: >-
+  Doug Torrance, Principal Research Scientist in the Georgia Tech School of
+  Mathematics.  Computational algebraic geometry and commutative algebra.
+
+plugins:
+  - jekyll-sitemap
+
+# Build inputs and tooling -- not part of the published site.  The site content
+# in _data/cv.yml is generated from cv.yml by `npm run build:data`.
+exclude:
+  - cv.yml
+  - cv.tex
+  - tools
+  - build
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - README.md

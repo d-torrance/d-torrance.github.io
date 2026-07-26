@@ -1,0 +1,1034 @@
+# ============================================================================
+# Douglas A. Torrance -- CV and website source
+#
+# This is the ONLY file to edit.  Everything else is generated:
+#
+#   npm run build       both targets
+#   npm run build:pdf   -> build/cv.tex -> assets/cv.pdf
+#   npm run build:web   -> _data/cv.yml -> _site/
+#
+# Sections marked "CV only" or "web only" are rendered by a single target.
+# Everything else feeds both.
+#
+# Math may be written inline between dollar signs; it is passed through to
+# LaTeX untouched and rendered as-is on the web.
+# ============================================================================
+
+profile:
+  name: Douglas A. Torrance
+  short_name: Doug Torrance
+  title: Principal Research Scientist
+  affiliation:
+    name: Georgia Tech School of Mathematics
+    url: https://math.gatech.edu/
+  # CV only -- the letterhead block.
+  address:
+    - School of Mathematics
+    - Georgia Institute of Technology
+    - 686 Cherry Street NW
+    - Atlanta, GA 30332
+  email: dtorrance9@gatech.edu
+  # web only -- the contact card on the front page.
+  office: Skiles 201
+  phone: TBA
+  office_hours: TBA
+  photo: img/torrance.jpg
+  urls:
+    homepage: https://d-torrance.github.io
+    github: https://github.com/d-torrance
+
+interests:
+  - Computational algebraic geometry and commutative algebra
+
+# web only -- the "Links" list on the research page.
+links:
+  - label: arXiv
+    url: https://arxiv.org/a/torrance_d_1.html
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=Kt-XNUgAAAAJ&hl=en
+  - label: MathSciNet
+    url: http://www.ams.org/mathscinet/search/author.html?mrauthid=1094385
+  - label: ORCID
+    url: https://orcid.org/0000-0003-3999-4973
+  - label: Mathematics Genealogy Project
+    url: https://www.mathgenealogy.org/id.php?id=174302
+    note: >-
+      (<a href="/genealogy">my tree</a>, generated with
+      <a href="https://github.com/davidalber/geneagrapher">geneagrapher</a>)
+  - label: Erdős number
+    url: https://en.wikipedia.org/wiki/Erd%C5%91s_number
+    value: 4 (Torrance → Teitler → Sottile → Pollack → Erdős)
+  - label: GitHub
+    url: https://github.com/d-torrance
+
+# CV only
+employment:
+  - title: Principal Research Scientist
+    org: Georgia Institute of Technology
+    location: Atlanta, GA
+    start: 2026
+    end: present
+  - title: Associate Professor
+    org: Piedmont University
+    location: Demorest, GA
+    start: 2019
+    end: 2026
+  - title: Assistant Professor
+    org: Piedmont University
+    location: Demorest, GA
+    start: 2015
+    end: 2019
+  - title: Visiting Assistant Professor
+    org: Monmouth College
+    location: Monmouth, IL
+    start: 2013
+    end: 2015
+  - title: Graduate Teaching Assistant
+    org: University of Idaho
+    location: Moscow, ID
+    start: 2006
+    end: 2013
+
+# CV only
+education:
+  - degree: Ph.D.
+    field: mathematics
+    institution: University of Idaho
+    location: Moscow, ID
+    year: 2013
+    advisor: Hirotachi Abo
+    thesis: Nondefective secant varieties of varieties of completely decomposable forms
+  - degree: M.S.
+    field: mathematics
+    institution: University of Idaho
+    location: Moscow, ID
+    year: 2008
+  - degree: B.A.
+    field: mathematics
+    institution: Northwestern University
+    location: Evanston, IL
+    year: 2003
+
+# CV only.  Every award lives here, including those earned by a specific talk
+# or poster.  `org` is the awarding body; set `org_italic` when it is a
+# publication.  Listed newest first.
+awards:
+  - name: Readers' Choice Award, Best College Professor
+    org: Northeast Georgian
+    org_italic: true
+    years: "2025, 2026"
+  - name: Excellence in Teaching Award
+    org: University of Idaho
+    years: "2008, 2009, 2010, 2011, 2012, 2013"
+  - name: Honorable Mention
+    org: AAAS Pacific Division 93rd Annual Meeting
+    years: "2012"
+  - name: Sigma Xi Research Award
+    org: University of Idaho College of Science Student Research Exposition
+    years: "2009"
+
+# web only -- prose intro for the research page's Software section.
+software_summary: >-
+  I am an active developer of <a href="https://macaulay2.com/">Macaulay2</a>
+  and member of the
+  <a href="https://github.com/Macaulay2/M2/wiki/Internals%3A-Meeting-Notes">M2internals</a>
+  group.  I am also a Debian Developer and maintain Macaulay2 and other
+  related mathematics software for <a href="https://www.debian.org/">Debian</a>.
+
+software:
+  - name: Macaulay2
+    url: https://macaulay2.com/
+    start: 2010
+    end: present
+    summary: Software for research in algebraic geometry and commutative algebra.
+    roles:
+      - Member, "M2internals" group, which meets monthly on Zoom to discuss
+        Macaulay2 development.
+      - Active contributor, focusing on maintenance and improvement of the
+        interpreter and build system.
+      - Release manager, reviewing and merging pull requests and preparing
+        binary releases.
+      - Course release for 2023--2024 and 2025--2026 academic years, funded by
+        the NSF through SLMath, for Macaulay2 development.
+      - Author of ForeignFunctions, JSON, JSONRPC, Probability, Python,
+        RInterface, TerraciniLoci, and Visualize packages.
+      - Maintainer of Macaulay2 website.
+      - Maintainer of PPA (personal package archive) for users to easily
+        download and install Macaulay2 packages for Debian/Ubuntu systems.
+  - name: Debian
+    url: https://www.debian.org/
+    start: 2013
+    end: present
+    roles:
+      - Debian Developer with full uploading rights to the Debian archive
+        (2021--present)
+      - "Team membership: Debian Math Team (founding member), Debian Science
+        Team, Debian Python Team, Debian R Team, Debian JavaScript Team"
+      - Maintainer of a wide variety of mathematics packages, including 4ti2,
+        Csdp, FFLAS-FFPACK, Gfan, Givaro, LinBox, Macaulay2, mpmath, nauty,
+        Normaliz, PHCpack, and TOPCOM
+
+# CV only.  Only `title`, `agency` and the dates are required; `program`,
+# `number`, `role`, `amount` and `note` are each optional.
+grants:
+  - title: Scientific Software Research Faculty Award
+    agency: Simons Foundation
+    program: Mathematics & Physical Sciences
+    number: SFI-MPS-SSRFA-00012695
+    role: Principal Investigator
+    amount: $946,170
+    start: 2026
+    end: 2031
+
+# CV only -- the full teaching history.  The website shows current_courses.
+#
+# A course that was renumbered lists every number it has held under `codes`.
+# The generated heading puts them in ascending order (e.g. "MATH 1300/2100")
+# followed by all of its terms.
+teaching:
+  - name: Piedmont University
+    url: https://www.piedmont.edu
+    start: 2015
+    end: 2026
+    courses:
+      - title: Programming Principles I
+        codes: [CSCI 1301]
+        terms: [Fall 2019, Fall 2020, Fall 2021, Fall 2022]
+      - title: Programming Principles II
+        codes: [CSCI 1302]
+        terms: [Spring 2020, Spring 2021, Spring 2022, Spring 2023]
+      - title: Data Structures
+        codes: [CSCI 2900]
+        terms: [Fall 2020]
+      - title: Algorithm Analysis
+        codes: [CSCI 3200, CSCI 4200]
+        terms: [Spring 2022]
+      - title: Software Development
+        codes: [CSCI 3400]
+        terms: [Spring 2021]
+      - title: Programming Languages
+        codes: [CSCI 4000]
+        terms: [Fall 2022]
+      - title: Mathematics for the Liberal Arts
+        codes: [MATH 1000, MATH 2050]
+        terms: [Spring 2016, Fall 2016]
+      - title: Intermediate Algebra
+        codes: [MATH 1005]
+        terms: [Spring 2020, Fall 2020, Fall 2025]
+      - title: College Algebra
+        codes: [MATH 1100]
+        terms: [Fall 2016]
+      - title: Precalculus
+        codes: [MATH 1113]
+        terms: [Fall 2015, Spring 2016, Fall 2016, Spring 2017, Fall 2017,
+                Fall 2018, Spring 2020, Spring 2021, Spring 2024, Spring 2025]
+      - title: Elementary Statistics
+        codes: [MATH 1300, MATH 2100]
+        terms: [Fall 2015, Summer 2016, Summer 2017, Spring 2018, Summer 2018,
+                Spring 2019, Summer 2019, Fall 2019, Summer 2020, Fall 2020,
+                Summer 2021, Fall 2021, Summer 2022, Summer 2023, Fall 2023,
+                Spring 2026]
+      - title: Discrete Mathematics
+        codes: [MATH 2300, MATH 2700]
+        terms: [Spring 2021, Spring 2023, Summer 2024]
+      - title: Calculus I
+        codes: [MATH 2450]
+        terms: [Fall 2018, Spring 2019, Fall 2022]
+      - title: Calculus II
+        codes: [MATH 2460]
+        terms: [Spring 2016, Spring 2017, Spring 2018, Spring 2019, Spring 2023,
+                Spring 2024]
+      - title: Calculus III
+        codes: [MATH 2470]
+        terms: [Fall 2015, Fall 2016, Fall 2017, Fall 2022, Fall 2023, Fall 2024,
+                Fall 2025]
+      - title: Differential Equations
+        codes: [MATH 2480]
+        terms: [Spring 2022]
+      - title: Linear Algebra
+        codes: [MATH 2600, MATH 3550]
+        terms: [Fall 2017, Fall 2018, Fall 2020]
+      - title: Probability
+        codes: [MATH 3300]
+        terms: [Fall 2017, Spring 2019, Fall 2019, Fall 2021]
+      - title: Mathematical Statistics
+        codes: [MATH 3310]
+        terms: [Spring 2020, Spring 2022, Spring 2024, Spring 2026]
+      - title: Number Theory
+        codes: [MATH 3400]
+        terms: [Fall 2016]
+      - title: Numerical Methods
+        codes: [MATH 3500]
+        terms: [Fall 2015, Spring 2018, Spring 2025]
+      - title: Abstract Algebra
+        codes: [MATH 3600]
+        terms: [Spring 2018]
+      - title: Mathematical Modeling
+        codes: [MATH 4100]
+        terms: [Spring 2017]
+      - title: Advanced Studies in Mathematics
+        note: Cryptography
+        codes: [MATH 4350]
+        terms: [Spring 2019]
+      - title: Senior Capstone I
+        codes: [MATH 4950]
+        terms: [Fall 2016, Fall 2017, Spring 2018, Spring 2019, Fall 2023,
+                Fall 2024, Fall 2025]
+      - title: Senior Capstone II
+        codes: [MATH 4960]
+        terms: [Spring 2017, Spring 2018, Spring 2020, Spring 2023, Spring 2024,
+                Spring 2025, Spring 2026]
+      - title: Special Topics
+        note: Algebraic Geometry
+        codes: [MATH 6500]
+        terms: [Fall 2023]
+      - title: Probability and Statistics for Teachers
+        codes: [MATH 6900]
+        terms: [Fall 2021]
+      - title: Introduction to University Life and Liberal Arts Tradition
+        codes: [PDMT 1101]
+        terms: [Fall 2018, Fall 2019]
+
+  - name: Monmouth College
+    url: https://www.monmouthcollege.edu
+    start: 2013
+    end: 2015
+    courses:
+      - title: Quantitative Reasoning
+        codes: [INTR 112]
+        terms: [Fall 2014, Spring 2015]
+      - title: Mathematics for the Liberal Arts
+        codes: [MATH 104]
+        terms: [Spring 2015]
+      - title: Quantitative Reasoning
+        codes: [MATH 114]
+        terms: [Spring 2014]
+      - title: Elementary Functions
+        codes: [MATH 141]
+        terms: [Fall 2013, Spring 2014]
+      - title: Calculus III
+        codes: [MATH 253]
+        terms: [Fall 2014]
+      - title: Differential Equations
+        codes: [MATH 254]
+        terms: [Spring 2015]
+      - title: Introduction to Modern Algebra
+        codes: [MATH 311]
+        terms: [Spring 2014]
+      - title: Topics in Mathematics
+        note: Graph Theory
+        codes: [MATH 350]
+        terms: [Fall 2013]
+      - title: Research in Mathematics
+        codes: [MATH 410]
+        terms: [Spring 2014]
+      - title: Independent Study and Seminar
+        note: Algebraic Geometry
+        codes: [MATH 420]
+        terms: [Spring 2015]
+
+  - name: University of Idaho
+    url: https://www.uidaho.edu
+    start: 2006
+    end: 2013
+    courses:
+      - title: Finite Mathematics
+        codes: [MATH 130]
+        terms: [Spring 2013]
+      - title: Pre-calculus Algebra and Analytic Geometry
+        codes: [MATH 143]
+        terms: [Fall 2006, Spring 2007, Summer 2007, Summer 2012]
+      - title: Analytic Trigonometry
+        codes: [MATH 144]
+        terms: [Summer 2011, Summer 2013]
+      - title: Survey of Calculus
+        codes: [MATH 160]
+        terms: [Fall 2007]
+      - title: Analytic Geometry and Calculus I
+        codes: [MATH 170]
+        terms: [Spring 2008, Fall 2008, Spring 2012]
+      - title: Analytic Geometry and Calculus II
+        codes: [MATH 175]
+        terms: [Spring 2011, Fall 2011]
+      - title: Analytic Geometry and Calculus III
+        codes: [MATH 275]
+        terms: [Summer 2009, Fall 2009, Fall 2010, Summer 2012, Summer 2013]
+      - title: Ordinary Differential Equations
+        codes: [MATH 310]
+        terms: [Summer 2008, Spring 2009, Summer 2010]
+      - title: Linear Algebra
+        codes: [MATH 330]
+        terms: [Spring 2010, Fall 2012]
+    roles:
+      - name: Tutor, Polya Mathematics Center
+        years: "2006--2008, 2011--2012"
+
+# web only -- replaces the old term-by-term teaching page.
+current_courses:
+  term: Fall 2026
+  courses: []
+  none_message: no courses taught
+
+# Reverse chronological.  `journal` is italicized and `citation` follows it
+# verbatim, which keeps the many different volume/issue/article-number
+# conventions readable.  `code` is web only.
+papers:
+  - title: A Macaulay2-Lean interface for bridging proof and computation
+    coauthors:
+      - name: Matthew Ballard
+        url: https://www.matthewrobertballard.com/
+      - name: Anton Leykin
+        url: https://antonleykin.math.gatech.edu/
+      - name: Michael E. Stillman
+        url: https://pi.math.cornell.edu/~mike/
+      - name: Damiano Testa
+        url: https://adomani.github.io/
+      - name: Jay Yang
+        url: https://jkyang92.github.io/
+    status: to appear in
+    journal: Lect. Notes Comput. Sci.
+    code:
+      - label: code
+        url: https://github.com/Macaulean/Macaulean
+
+  - title: Implementing p-adic numbers in Macaulay2 using its foreign function
+      interface and FLINT
+    status: to appear in
+    journal: Lect. Notes Comput. Sci.
+    arxiv: "2604.16799"
+    code:
+      - label: code
+        url: https://github.com/d-torrance/macaulay2-padic
+
+  - title: Properties of regular Tangles
+    coauthors:
+      - name: Rebecca Bowen
+        url: https://sites.google.com/view/rebeccabowen
+      - name: Sadie Pruitt
+    status: submitted
+    arxiv: "2405.20793"
+
+  - title: ForeignFunctions package for Macaulay2
+    journal: J. Softw. Algebra Geom.
+    citation: 15-1 (2025), 1-9
+    doi: 10.2140/jsag.2025.15.1
+    arxiv: "2405.12365"
+    code:
+      - label: code
+        url: https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/ForeignFunctions.m2
+
+  - title: Geometry of first nonempty Terracini loci
+    coauthors:
+      - name: Francesco Galuppi
+        url: https://www.mimuw.edu.pl/~galuppi/
+      - name: Pierpaola Santarsiero
+        url: https://pierpaolasantarsiero.wixsite.com/pierpaola
+      - name: Ettore Teixeira Turatti
+        url: https://turattiettore.wixsite.com/ettoreturatti
+    journal: Commun. Contemp. Math.
+    citation: 28 (2026), no. 4, Paper No. 2550053
+    doi: 10.1142/S0219199725500531
+    arxiv: "2311.09067"
+    code:
+      - label: code
+        url: https://github.com/d-torrance/terracini-loci
+
+  - title: Probability package for Macaulay2
+    journal: J. Softw. Algebra Geom.
+    citation: 14 (2024), no. 1, 51–57
+    doi: 10.2140/jsag.2024.14.51
+    arxiv: "2212.09793"
+    code:
+      - label: code
+        url: https://github.com/Macaulay2/M2/blob/master/M2/Macaulay2/packages/Probability.m2
+
+  - title: Almost all subgeneric third-order Chow decompositions are identifiable
+    coauthors:
+      - name: Nick Vannieuwenhoven
+        url: https://people.cs.kuleuven.be/~nick.vannieuwenhoven/
+    journal: Ann. Mat. Pura Appl.
+    citation: (4) 201 (2022), no. 6, 2891–2905
+    doi: 10.1007/s10231-022-01224-8
+    arxiv: "2112.06980"
+    code:
+      - label: certificates
+        url: code/Chow3_HPC_20191223.zip
+
+  - title: All secant varieties of the Chow variety are nondefective for cubics
+      and quaternary forms
+    coauthors:
+      - name: Nick Vannieuwenhoven
+        url: https://people.cs.kuleuven.be/~nick.vannieuwenhoven/
+    journal: Trans. Amer. Math. Soc.
+    citation: 374 (2021), no. 7, 4815-4838
+    doi: 10.1090/tran/8340
+    # cv.tex listed 2112.06980 here, which belongs to the paper above.
+    arxiv: "2005.12436"
+    code:
+      - label: certificates - cubics
+        url: code/TV_Certificates_Cubics.zip
+      - label: quaternary forms
+        url: code/TV_Certificates_Quaternary_Forms.zip
+
+  - title: Enumeration of planar Tangles
+    journal: Proc. Math. Sci.
+    citation: 130, 50 (2020)
+    doi: 10.1007/s12044-020-00575-7
+    arxiv: "1906.01541"
+    code:
+      - label: code
+        url: https://github.com/d-torrance/tanglenum
+
+  - title: Generic forms of low Chow rank
+    journal: J. Algebra Appl.
+    citation: 16 (2017), no. 3, 1750047, 10 pp.
+    doi: 10.1142/S0219498817500475
+    arxiv: "1508.05546"
+
+  - title: Castelnuovo-Mumford regularity and arithmetic Cohen-Macaulayness of
+      complete bipartite subspace arrangements
+    coauthors:
+      - name: Zach Teitler
+        url: https://zteitler.github.io/
+    journal: J. Pure Appl. Algebra
+    citation: 219 (2015), no. 6, 2134–2138
+    doi: 10.1016/j.jpaa.2014.07.027
+    arxiv: "1209.2075"
+
+  - title: Nondefective secant varieties of varieties of completely
+      decomposable forms
+    note: Ph.D. thesis, University of Idaho (2013)
+    url: https://search.proquest.com/docview/1448339101
+    arxiv: "1306.1293"
+
+# Grouped by slide deck, because one deck often covered several venues.  The
+# website renders the grouping directly, showing only decks that have a
+# `slides` or `links` artifact.  The CV renders one line per presentation.
+#
+# `title_as` records a venue where the talk ran under a different title.
+talks:
+  - title: Implementing p-adic numbers in Macaulay2 using its foreign function
+      interface and FLINT
+    slides: https://d-torrance.github.io/macaulay2-padic/icms/
+    links:
+      - label: code demo
+        url: https://nbviewer.org/github/d-torrance/macaulay2-padic/blob/master/icms/macaulay2-padic.ipynb
+    presentations:
+      - venue: International Congress on Mathematical Software 2026
+        institution: Wilfrid Laurier University
+        date: 2026-07-23
+
+  - title: Tangles and computational algebraic geometry
+    slides: https://d-torrance.github.io/maa-se-2026-tangles/
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        institution: University of North Alabama
+        date: 2026-03-27
+
+  - title: The Gauss-Bonnet theorem and triangular Tangles
+    slides: slides/highpoint-2025-02-28.pdf
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        institution: High Point University
+        date: 2025-02-28
+
+  - title: Semiregular Tangles
+    slides: slides/tennessee-2024-03-15.pdf
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        institution: University of Tennessee
+        date: 2024-03-15
+
+  - title: RInterface package
+    slides: slides/r-interface.html
+    presentations:
+      - venue: M2internals
+        date: 2023-12-18
+
+  - title: Installing and using Macaulay2
+    slides: slides/georgia-tech-20230416.pdf
+    presentations:
+      - venue: MAAG
+        institution: Georgia Tech
+        date: 2023-04-16
+
+  - title: An exponential bound for nondefective secant varieties of Chow
+      varieties
+    slides: slides/georgia-tech-20230318.pdf
+    presentations:
+      - venue: AMS Southeastern Section Spring Meeting
+        institution: Georgia Tech
+        date: 2023-03-18
+
+  - title: Triangular and hexagonal Tangles
+    slides: slides/coastal-carolina-20230310.pdf
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        institution: Coastal Carolina University
+        date: 2023-03-10
+
+  - title: Induction and secant varieties to Chow varieties
+    slides: slides/agates20221026.pdf
+    presentations:
+      - venue: "AGATES: Geometry of secants workshop"
+        venue_url: https://agates.mimuw.edu.pl/index.php/agates/geometry-of-secants.html
+        institution: IMPAN
+        location: Warsaw, Poland
+        date: 2022-10-26
+
+  - title: Best of Macaulay2 crashes
+    slides: slides/best-of-m2-crashes.m2
+    presentations:
+      - venue: M2internals
+        location: Virtual
+        date: 2021-09-02
+
+  - title: The Chow-Waring problem
+    slides: slides/uidaho20210415.pdf
+    presentations:
+      - venue: University of Idaho Mathematics Colloquium
+        location: Virtual
+        date: 2021-04-15
+
+  - title: Enumeration of planar Tangles
+    slides: slides/maavirtual20210306.pdf
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        location: Virtual
+        date: 2021-03-06
+
+  - title: All secant varieties of the Chow variety are nondefective for cubics
+      and quaternary forms
+    slides: slides/amsvirtual20201010.pdf
+    presentations:
+      - session: Contributed Paper Session
+        venue: AMS Fall Southeastern Sectional Meeting
+        location: Virtual
+        date: 2020-10-10
+
+  - title: Macaulay2 in Debian
+    slides: slides/m2internals20200626.pdf
+    presentations:
+      - venue: "M2internals #2"
+        location: Virtual
+        date: 2020-06-26
+
+  - title: Biconal subspace arrangements
+    slides: slides/lee20190308.pdf
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        institution: Lee University
+        date: 2019-03-08
+
+  - title: Toy trains and polyplets
+    slides: slides/clemson20180323.pdf
+    presentations:
+      - venue: MAA Southeastern Section Meeting
+        institution: Clemson University
+        date: 2018-03-23
+
+  - title: Generic forms of low Chow rank
+    slides: slides/jmm20170106.pdf
+    presentations:
+      - venue: AMS Central Section Spring Meeting
+        institution: The Ohio State University
+        date: 2018-03-18
+        title_as: The Chow-Waring problem
+      - venue: Joint Mathematics Meetings
+        location: Atlanta, GA
+        date: 2017-01-06
+      - venue: AMS Southeastern Section Spring Meeting
+        institution: University of Georgia
+        date: 2016-03-05
+
+  - title: "Connect the Dots: An introduction to graph theory and its
+      applications to algebraic geometry"
+    presentations:
+      - venue: Piedmont College Department of Mathematics and Physics Colloquium
+        location: Demorest, GA
+        date: 2015-10-05
+
+  - title: Properties of complete bipartite codimension two subspace
+      arrangements
+    slides: slides/jmm14.pdf
+    presentations:
+      - venue: Joint Mathematics Meetings
+        location: Baltimore, MD
+        date: 2014-01-15
+      - session: Special Session on Algebraic Geometry and Graded Commutative
+          Algebra
+        venue: AMS Fall Central Sectional Meeting
+        institution: University of Nebraska-Lincoln
+        date: 2011-10-16
+        title_as: Regularity of $(n-2)$-plane arrangements in $\mathbb{P}^n$
+          with a complete bipartite incidence graph
+
+  - title: Nondefective secant varieties of varieties of completely
+      decomposable forms
+    slides: slides/defense.pdf
+    presentations:
+      - venue: Ph.D. defense
+        institution: University of Idaho
+        location: Moscow, ID
+        date: 2013-04-30
+
+  # --- talks with no surviving slide deck (CV only) -------------------------
+
+  - title: Nondefective secant varieties of varieties of completely
+      decomposable forms
+    presentations:
+      - venue: University of Idaho Innovation Showcase
+        location: Moscow, ID
+        date: 2013-04-23
+
+  - title: Nondefective secant varieties of split varieties
+    presentations:
+      - session: Mathematics section
+        venue: AAAS Pacific Division 93rd Annual Meeting
+        location: Boise, ID
+        date: 2012-06-25
+
+  - title: Regularity of $(n-2)$-plane arrangements in $\mathbb{P}^n$ with a
+      complete bipartite incidence graph
+    presentations:
+      - venue: University of Idaho Department of Mathematics Graduate Student
+          Colloquium
+        location: Moscow, ID
+        date: 2011-09-20
+
+  - title: Bounds on the degrees of generators of Bruns ideals
+    presentations:
+      - session: AMS Special Session on Commutative Algebra (Mathematics
+          Research Communities session)
+        venue: Joint Mathematics Meetings
+        location: New Orleans, LA
+        date: 2011-01-07
+
+  - title: Graphs and Posets in Macaulay2
+    presentations:
+      - venue: University of Idaho Department of Mathematics Graduate Student
+          Colloquium
+        location: Moscow, ID
+        date: 2010-11-09
+
+  - title: Bounds on the degrees of generators of Bruns ideals
+    presentations:
+      - venue: University of Idaho Department of Mathematics Graduate Student
+          Colloquium
+        location: Moscow, ID
+        date: 2010-10-19
+
+  - title: The combinatorics of plane arrangements in $\mathbb{P}^4$
+    presentations:
+      - venue: University of Idaho Department of Mathematics Graduate Student
+          Colloquium
+        location: Moscow, ID
+        # cv.tex records no month or day for this talk.
+        date: 2010
+
+  - title: Classification of nonsingular surfaces in $\mathbb{P}^4$
+    presentations:
+      - venue: University of Idaho Department of Mathematics Graduate Student
+          Colloquium
+        location: Moscow, ID
+        date: 2010
+
+# CV only
+posters:
+  - title: Nondefective secant varieties of split varieties
+    venue: University of Idaho College of Science Student Research Exposition
+    location: Moscow, ID
+    date: 2012
+  - title: Using graph theory to classify arrangements of four planes in
+      projective 4-space
+    venue: University of Idaho College of Science Student Research Exposition
+    location: Moscow, ID
+    date: 2009
+
+# Drives the Travel page (full dates, links, roles) and the CV's Conferences
+# Attended section (name, venue, month and year).  `dates` overrides the
+# computed range for meetings held on non-consecutive days.
+travel:
+  - name: Macaulay2 at Auburn
+    url: https://johndcobb.github.io/organizing/M2atAuburn/
+    venue: Auburn University
+    city: Auburn
+    region: AL
+    start: 2027-02-22
+    end: 2027-02-26
+
+  - name: Simons MPS Annual Meeting
+    url: https://www.simonsfoundation.org/event/mps-annual-meeting-2026/
+    city: New York
+    region: NY
+    start: 2026-10-15
+    end: 2026-10-16
+
+  - name: AMS Fall Southeastern Sectional Meeting
+    url: https://www.ams.org/meetings/sectional/fall2026se
+    venue: Kennesaw State University
+    city: Kennesaw
+    region: GA
+    start: 2026-10-10
+    end: 2026-10-11
+
+  - name: ICMS 2026
+    url: https://icms-conference.org/2026/
+    venue: Wilfrid Laurier University
+    city: Waterloo
+    region: ON
+    start: 2026-07-20
+    end: 2026-07-23
+
+  - name: Macaulay2 Workshop
+    url: https://sites.google.com/view/warwick-macaulay2-workshop/home
+    venue: University of Warwick
+    city: Coventry
+    region: UK
+    start: 2026-06-29
+    end: 2026-07-03
+
+  - name: The Future of Macaulay2
+    url: https://d-torrance.github.io/m2gt26/
+    venue: Georgia Tech
+    city: Atlanta
+    region: GA
+    start: 2026-05-13
+    end: 2026-05-21
+    role: co-organizer
+
+  - name: MAAG 2026
+    url: https://klee669.github.io/maag
+    venue: Clemson University
+    city: Clemson
+    region: SC
+    start: 2026-04-17
+    end: 2026-04-19
+
+  - name: MAA-SE 2026
+    url: https://scholarlattice.org/collections/7cc4eb45-f1f1-477a-a43b-3905770a2be2
+    venue: University of North Alabama
+    city: Florence
+    region: AL
+    start: 2026-03-26
+    end: 2026-03-28
+
+  - name: Macaulay2 Workshop
+    url: https://macaulay2.github.io/Workshop-2025-Madison/
+    venue: University of Wisconsin
+    city: Madison
+    region: WI
+    start: 2025-06-30
+    end: 2025-07-04
+
+  - name: MAA-SE 2025
+    url: https://scholarlattice.org/collections/5c3bd50e-9e5f-4475-ba26-30d8c7125ae3
+    venue: High Point University
+    city: High Point
+    region: NC
+    start: 2025-02-27
+    end: 2025-03-01
+
+  - name: Micro-workshop on Internal Workings of Macaulay2
+    url: http://www.fields.utoronto.ca/activities/24-25/commutative-Macaulay2
+    venue: Fields Institute
+    city: Toronto
+    region: ON
+    start: 2025-02-06
+    end: 2025-02-11
+
+  - name: MAA-SE 2024
+    venue: University of Tennessee
+    city: Knoxville
+    region: TN
+    start: 2024-03-14
+    end: 2024-03-16
+
+  - name: "Macaulay2: expanded functionality and improved efficiency"
+    url: https://aimath.org/pastworkshops/macaulay2efie.html
+    venue: American Institute of Mathematics
+    city: Pasadena
+    region: CA
+    start: 2023-09-25
+    end: 2023-09-29
+
+  - name: MAAG 2023
+    url: https://sites.google.com/view/maag-2023/home
+    venue: Georgia Tech
+    city: Atlanta
+    region: GA
+    start: 2023-04-15
+    end: 2023-04-16
+
+  - name: AMS Spring Southeastern Sectional Meeting
+    url: https://www.ams.org/meetings/sectional/2298_program.html
+    venue: Georgia Tech
+    city: Atlanta
+    region: GA
+    start: 2023-03-18
+    end: 2023-03-19
+
+  - name: MAA-SE 2023
+    venue: Coastal Carolina University
+    city: Conway
+    region: SC
+    start: 2023-03-09
+    end: 2023-03-11
+
+  - name: "AGATES: Geometry of secants workshop"
+    url: https://agates.mimuw.edu.pl/index.php/agates/geometry-of-secants.html
+    venue: IMPAN
+    city: Warsaw
+    region: PL
+    start: 2022-10-24
+    end: 2022-10-28
+
+  - name: M2internals meeting and Macaulay2 conference
+    url: https://math.galetto.org/m2csu/
+    venue: Cleveland State University
+    city: Cleveland
+    region: OH
+    start: 2022-05-26
+    end: 2022-05-29
+
+  - name: MAA-SE 2021
+    city: Virtual
+    start: 2021-03-06
+    end: 2021-03-13
+    dates: March 6 & 13
+
+  - name: Macaulay2 Workshop
+    url: https://sites.google.com/view/warwick-m2-workshop/home
+    city: Virtual
+    start: 2020-06-01
+    end: 2020-06-05
+
+  - name: MAA-SE 2019
+    venue: Lee University
+    city: Cleveland
+    region: TN
+    start: 2019-03-07
+    end: 2019-03-09
+
+  - name: MAA-SE 2018
+    venue: Clemson University
+    city: Clemson
+    region: SC
+    start: 2018-03-23
+    end: 2018-03-24
+
+  - name: AMS Spring Central Sectional Meeting
+    url: https://www.ams.org/meetings/sectional/2250_program.html
+    venue: The Ohio State University
+    city: Columbus
+    region: OH
+    start: 2018-03-16
+    end: 2018-03-18
+
+  - name: Joint Mathematics Meeting
+    url: https://jointmathematicsmeetings.org/meetings/national/jmm2017/2180_program.html
+    city: Atlanta
+    region: GA
+    start: 2017-01-04
+    end: 2017-01-07
+
+  - name: AMS Spring Southeastern Sectional Meeting
+    url: https://www.ams.org/meetings/sectional/2237_program.html
+    venue: University of Georgia
+    city: Athens
+    region: GA
+    start: 2016-03-05
+    end: 2016-03-06
+
+  - name: Joint Mathematics Meetings
+    url: https://jointmathematicsmeetings.org/meetings/national/jmm2014/2160_program.html
+    city: Baltimore
+    region: MD
+    start: 2014-01-15
+    end: 2014-01-18
+
+  - name: AAAS Pacific Division 93rd Annual Meeting
+    venue: Boise State University
+    city: Boise
+    region: ID
+    start: 2012-06-24
+    end: 2012-06-27
+
+  - name: "Mathematical Research Communities: Geometry and Representation
+      Theory Related to Geometric Complexity and Other Variants of P v. NP"
+    url: https://www.ams.org/learning-careers/profdev/research-communities/mrc-12-highlights
+    city: Snowbird
+    region: UT
+    start: 2012-06-17
+    end: 2012-06-23
+
+  - name: AMS Fall Central Section Meeting
+    url: https://www.ams.org/meetings/sectional/2185_program.html
+    venue: University of Nebraska
+    city: Lincoln
+    region: NE
+    start: 2011-10-14
+    end: 2011-10-16
+
+  - name: Joint Mathematics Meetings
+    url: https://jointmathematicsmeetings.org/meetings/national/jmm-archive/2125_intro.html
+    city: New Orleans
+    region: LA
+    start: 2011-01-06
+    end: 2011-01-09
+
+  - name: Macaulay2 Workshop
+    url: https://macaulay2.com/Events/Workshop2010August/
+    venue: Colorado College
+    city: Colorado Springs
+    region: CO
+    start: 2010-08-08
+    end: 2010-08-12
+
+  - name: "Mathematical Research Communities: Commutative Algebra"
+    url: https://www.ams.org/learning-careers/profdev/research-communities/mrc-10-highlights
+    city: Snowbird
+    region: UT
+    start: 2010-06-26
+    end: 2010-07-02
+
+  - name: Joint Mathematics Meetings
+    url: https://jointmathematicsmeetings.org/meetings/national/jmm-archive/2124_intro.html
+    city: San Francisco
+    region: CA
+    start: 2010-01-13
+    end: 2010-01-16
+
+# CV only
+service:
+  - role: Interdisciplinary Problem Solving Community of Practice
+    org: Piedmont University
+    years: 2024--2026
+  - role: Center for Teaching and Learning Committee
+    org: Piedmont University
+    years: 2023--2026
+  - role: Department Chair, Department of Mathematical Sciences
+    org: Piedmont University
+    years: 2022--2026
+  - role: Faculty Senate
+    org: Piedmont University
+    years: 2018--2021, 2023--2026
+  - role: Instructional Technology Committee
+    org: Piedmont University
+    years: 2016--2017
+  - role: Library Committee
+    org: Piedmont University
+    years: 2015--2018
+  - role: Reviewer
+    org: Mathematical Reviews
+    years: 2017--present
+  - role: Referee
+    org: The Journal of Software for Algebra and Geometry
+    org_italic: true
+    years: 2013--present
+  - role: Supervisor, Putnam Mathematical Competition Team
+    org: Monmouth College
+    years: 2013, 2014
+  - role: Web designer, online calculus modules
+    org: University of Idaho
+    years: 2008

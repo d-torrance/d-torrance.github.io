@@ -1,0 +1,20 @@
+{
+  "name": "dtorrance-webpage",
+  "version": "1.0.0",
+  "description": "Doug Torrance's academic webpage and CV, both generated from cv.yml",
+  "private": true,
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "build:data": "node tools/build-data.js",
+    "build:tex": "node tools/build-tex.js",
+    "build:pdf": "npm run build:tex && latexmk -pdf -quiet -auxdir=build -outdir=assets build/cv.tex",
+    "build:web": "npm run build:data && bundle exec jekyll build",
+    "build": "npm run build:pdf && npm run build:web",
+    "serve": "npm run build:pdf && npm run build:data && bundle exec jekyll serve",
+    "clean": "rm -rf build _site _data/cv.yml assets/cv.pdf .jekyll-cache"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "nunjucks": "^3.2.4"
+  }
+}

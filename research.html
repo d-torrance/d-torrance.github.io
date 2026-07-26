@@ -1,0 +1,77 @@
+---
+layout: default
+permalink: research
+title: Research
+---
+
+{%- assign cv = site.data.cv -%}
+
+<h3>Research</h3>
+
+<h4>Interests</h4>
+<ul>
+  {%- for interest in cv.interests %}
+  <li>{{ interest }}</li>
+  {%- endfor %}
+</ul>
+
+<h4>Software</h4>
+
+<p>{{ cv.software_summary }}</p>
+
+<h4>Links</h4>
+<ul>
+  {%- for link in cv.links %}
+  <li><a href="{{ link.url }}">{{ link.label }}</a>
+    {%- if link.value %}: {{ link.value }}{% endif %}
+    {%- if link.note %} {{ link.note }}{% endif %}</li>
+  {%- endfor %}
+</ul>
+
+<h4>Papers</h4>
+<ul>
+  {%- for paper in cv.papers %}
+  <li>
+    {%- if paper.href %}<a href="{{ paper.href }}"><em>{{ paper.title }}</em></a>
+    {%- else %}<em>{{ paper.title }}</em>{% endif %},
+    {%- if paper.coauthors.size > 0 %}
+    (with
+    {%- for author in paper.coauthors -%}
+      {%- if forloop.last and forloop.length > 1 %} and{% endif %}
+      {%- if author.url %} <a href="{{ author.url }}">{{ author.name }}</a>
+      {%- else %} {{ author.name }}{% endif %}
+      {%- unless forloop.last %}{% if forloop.length > 2 %},{% endif %}{% endunless %}
+    {%- endfor %}),
+    {%- endif %}
+    {%- if paper.citation_html %} {{ paper.citation_html }}{% endif %}
+    {%- assign extras = paper.code | size -%}
+    {%- if paper.arxiv_url %}{% assign extras = extras | plus: 1 %}{% endif -%}
+    {%- if extras > 0 %}
+    (
+    {%- if paper.arxiv_url %}<a href="{{ paper.arxiv_url }}">arXiv</a>
+      {%- if paper.code.size > 0 %}, {% endif %}
+    {%- endif %}
+    {%- for link in paper.code %}<a href="{{ link.url }}">{{ link.label }}</a>
+      {%- unless forloop.last %}, {% endunless %}
+    {%- endfor %})
+    {%- endif %}
+  </li>
+  {%- endfor %}
+</ul>
+
+<h4>Slides</h4>
+<ul>
+  {%- for deck in cv.talks %}{% if deck.has_artifact %}
+  <li>
+    {%- if deck.slides %}<a href="{{ deck.slides }}"><em>{{ deck.title }}</em></a>
+    {%- else %}<em>{{ deck.title }}</em>{% endif %}
+    {%- for link in deck.links %} (<a href="{{ link.url }}">{{ link.label }}</a>){% endfor %}
+    <ul>
+      {%- for talk in deck.presentations %}
+      <li>{{ talk.line_html }}
+        {%- if talk.retitled %} (as <em>{{ talk.title }}</em>){% endif %}</li>
+      {%- endfor %}
+    </ul>
+  </li>
+  {%- endif %}{% endfor %}
+</ul>
