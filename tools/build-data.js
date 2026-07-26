@@ -118,7 +118,6 @@ function main() {
     links: (cv.links || []).map((l) => ({ ...l, url: webUrl(l.url) })),
     software_summary: cv.software_summary || null,
     software: cv.software || [],
-    current_courses: cv.current_courses || null,
     papers: buildPapers(cv.papers),
     talks: buildTalks(cv.talks),
     travel: buildTravel(cv.travelByYear),

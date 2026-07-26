@@ -4,9 +4,14 @@ Source for <https://d-torrance.github.io> and the PDF CV it links to.
 
 ## Editing
 
-**`cv.yml` at the repo root is the only file with content in it.** Employment,
-education, grants, software, teaching, papers, talks, posters, travel and
-service all live there, and both the website and the CV are generated from it.
+**`cv.yml` at the repo root holds the content that feeds both targets.**
+Employment, education, grants, software, teaching, papers, talks, posters,
+travel and service all live there, and both the website and the CV are
+generated from it.
+
+The one exception is `teaching.md`, which is curated by hand — it lists the
+current term's courses and any links to their materials. The full teaching
+history lives in `cv.yml` and appears only in the CV.
 
 Some sections go to only one target — they are marked `CV only` or `web only`
 in `cv.yml` — but nothing is duplicated between the two.

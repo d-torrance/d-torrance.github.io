@@ -180,7 +180,8 @@ grants:
     start: 2026
     end: 2031
 
-# CV only -- the full teaching history.  The website shows current_courses.
+# CV only -- the full teaching history.  The website's teaching page is
+# curated by hand in teaching.md and is not generated from this.
 #
 # A course that was renumbered lists every number it has held under `codes`.
 # The generated heading puts them in ascending order (e.g. "MATH 1300/2100")
@@ -362,12 +363,6 @@ teaching:
     roles:
       - name: Tutor, Polya Mathematics Center
         years: "2006--2008, 2011--2012"
-
-# web only -- replaces the old term-by-term teaching page.
-current_courses:
-  term: Fall 2026
-  courses: []
-  none_message: no courses taught
 
 # Reverse chronological.  `journal` is italicized and `citation` follows it
 # verbatim, which keeps the many different volume/issue/article-number
