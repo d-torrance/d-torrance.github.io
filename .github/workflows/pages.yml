@@ -44,7 +44,9 @@ jobs:
             texlive-latex-base \
             texlive-latex-recommended \
             texlive-latex-extra \
-            texlive-fonts-extra
+            texlive-fonts-recommended \
+            texlive-fonts-extra \
+            texlive-plain-generic
 
       - run: npm ci
 
@@ -54,6 +56,12 @@ jobs:
         run: npm run build
         env:
           JEKYLL_ENV: production
+
+      # latexmk runs -quiet, so on failure the actual TeX error is only in the
+      # log.  Without this the job reports a bare exit code and nothing else.
+      - name: Show LaTeX log on failure
+        if: failure()
+        run: cat build/cv.log || echo "no build/cv.log was produced"
 
       - uses: actions/upload-pages-artifact@v3
         with:
