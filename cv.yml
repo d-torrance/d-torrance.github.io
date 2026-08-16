@@ -767,6 +767,14 @@ travel:
     start: 2026-10-10
     end: 2026-10-11
 
+  - name: Macaulay2 Micro-Workshop: Refactoring the Macaulay2 Engine
+    url: https://d-torrance.github.io/m2-micro-workshops-26-27/workshops/01-cornell/
+    venue: Cornell University
+    city: Ithaca
+    region: NY
+    start: 2026-09-14
+    end: 2026-09-17
+
   - name: ICMS 2026
     url: https://icms-conference.org/2026/
     venue: Wilfrid Laurier University
