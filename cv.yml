@@ -767,7 +767,7 @@ travel:
     start: 2026-10-10
     end: 2026-10-11
 
-  - name: Macaulay2 Micro-Workshop: Refactoring the Macaulay2 Engine
+  - name: "Macaulay2 Micro-Workshop: Refactoring the Macaulay2 Engine"
     url: https://d-torrance.github.io/m2-micro-workshops-26-27/workshops/01-cornell/
     venue: Cornell University
     city: Ithaca
