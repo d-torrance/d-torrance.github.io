@@ -502,6 +502,12 @@ papers:
 #
 # `title_as` records a venue where the talk ran under a different title.
 talks:
+  - title: An introduction to computer algebra with Macaulay2
+    slides: https://nbviewer.org/github/d-torrance/d-torrance.github.io/blob/master/slides/cyclohexane.ipynb
+    presentations:
+      - venue: Undergraduate Seminar
+        institution: Georgia Tech
+        date: 2026-09-03
   - title: Implementing p-adic numbers in Macaulay2 using its foreign function
       interface and FLINT
     slides: https://d-torrance.github.io/macaulay2-padic/icms/
