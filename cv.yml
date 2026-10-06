@@ -296,14 +296,11 @@ teaching:
     end: 2015
     courses:
       - title: Quantitative Reasoning
-        codes: [INTR 112]
-        terms: [Fall 2014, Spring 2015]
+        codes: [INTR 112, MATH 114]
+        terms: [Spring 2014, Fall 2014, Spring 2015]
       - title: Mathematics for the Liberal Arts
         codes: [MATH 104]
         terms: [Spring 2015]
-      - title: Quantitative Reasoning
-        codes: [MATH 114]
-        terms: [Spring 2014]
       - title: Elementary Functions
         codes: [MATH 141]
         terms: [Fall 2013, Spring 2014]
