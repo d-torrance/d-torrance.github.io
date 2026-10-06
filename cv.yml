@@ -750,6 +750,15 @@ posters:
 # Attended section (name, venue, month and year).  `dates` overrides the
 # computed range for meetings held on non-consecutive days.
 travel:
+  - name: MAAG 2027
+    url: https://d-torrance.github.io/maag-27/
+    venue: Georgia Tech
+    city: Atlanta
+    region: GA
+    start: 2027-04-23
+    end: 2027-04-25
+    role: co-organizer
+
   - name: Macaulay2 at Auburn
     url: https://johndcobb.github.io/organizing/M2atAuburn/
     venue: Auburn University
