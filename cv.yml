@@ -499,6 +499,12 @@ papers:
 #
 # `title_as` records a venue where the talk ran under a different title.
 talks:
+  - Moment varieties of local mixtures and Terracini loci
+    slides: slides/ksu-2026-10-11.pdf
+    presentations:
+	- venue: AMS Fall Southeastern Sectional Meeting
+	  institution: Kennesaw State University
+	  date: 2026-10-11
   - title: An introduction to computer algebra with Macaulay2
     slides: https://nbviewer.org/github/d-torrance/d-torrance.github.io/blob/master/slides/cyclohexane.ipynb
     presentations:
