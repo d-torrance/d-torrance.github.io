@@ -36,17 +36,28 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      # Installs only what the CV needs on top of scheme-basic, and caches it
+      # between runs.  If the CV starts loading a new package, add it here.
       - name: Install LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends \
-            latexmk \
-            texlive-latex-base \
-            texlive-latex-recommended \
-            texlive-latex-extra \
-            texlive-fonts-recommended \
-            texlive-fonts-extra \
-            texlive-plain-generic
+        uses: TeX-Live/setup-texlive-action@v3
+        with:
+          packages: |
+            scheme-basic
+            latexmk
+            ec
+            enumitem
+            etoolbox
+            fancyhdr
+            fontaxes
+            kastrup
+            microtype
+            mweights
+            newtx
+            titlesec
+            xcolor
+            xkeyval
+            xpatch
+            xstring
 
       - run: npm ci
 
