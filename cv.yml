@@ -365,6 +365,9 @@ teaching:
 # verbatim, which keeps the many different volume/issue/article-number
 # conventions readable.  `code` is web only.
 papers:
+  - title: Terracini loci of tangential varieties of Veroneseans
+    status: submitted
+    arxiv: 2610.27625
   - title: A Macaulay2-Lean interface for bridging proof and computation
     coauthors:
       - name: Matthew Ballard
