@@ -756,6 +756,14 @@ posters:
 # Attended section (name, venue, month and year).  `dates` overrides the
 # computed range for meetings held on non-consecutive days.
 travel:
+  - name: Macaulay2 in Nice
+    url: https://macaulay2.sciencesconf.org/
+    venue: Université Côte d’Azur
+    city: Nice
+    region: France
+    start: 2027-06-07
+    end: 2027-06-11
+
   - name: MAAG 2027
     url: https://d-torrance.github.io/maag-27/
     venue: Georgia Tech
@@ -765,6 +773,14 @@ travel:
     end: 2027-04-25
     role: co-organizer
 
+  - name: Commutative Algebra in the Age of AI
+    url: https://www.slmath.org/workshops/1221
+    venue: SLMath
+    city: Berkeley
+    region: CA
+    start: 2027-04-12
+    end: 2027-04-16
+
   - name: Macaulay2 at Auburn
     url: https://johndcobb.github.io/organizing/M2atAuburn/
     venue: Auburn University
@@ -772,6 +788,15 @@ travel:
     region: AL
     start: 2027-02-22
     end: 2027-02-26
+
+  - name: "Macaulay2 Micro-Workshop: Refactoring the Macaulay2 Engine II"
+    url: https://d-torrance.github.io/m2-micro-workshops-26-27/workshops/02-georgia-tech/
+    venue: Georgia Tech
+    city: Atlanta
+    region: GA
+    start: 2027-01-04
+    end: 2027-01-08
+    role: co-organizer
 
   - name: Simons MPS Annual Meeting
     url: https://www.simonsfoundation.org/event/mps-annual-meeting-2026/
